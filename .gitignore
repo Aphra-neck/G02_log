@@ -1,0 +1,25 @@
+# Large ROS and point-cloud artifacts are never stored in this repository.
+*.pcd
+*.ply
+*.las
+*.bag
+*.bag.active
+*.db3
+*.mcap
+*.core
+core
+core.*
+
+# Archives and generic large captures.
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.pcap
+
+# Local analysis/runtime noise.
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
