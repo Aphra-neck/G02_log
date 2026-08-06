@@ -1,0 +1,7 @@
+pid=3179
+boot_id=cc00ce7e-150a-4548-a322-bb020a52993d
+start_ticks=22845
+pgid=3179
+session_dir=/home/unitree/go2_logs/sessions/20260806T051631Z-unitree-jetson-payload-3107
+collector_pid=3169
+captured_at=2026-08-06T05:16:31Z
