@@ -1,0 +1,11 @@
+FASTRTPS_DEFAULT_PROFILES_FILE=/home/unitree/catkin_ws/config/fastdds/jetson_wifi.xml
+LD_LIBRARY_PATH=/usr/local/lib:/home/unitree/catkin_ws/install/utree_dog_msgs/lib:/home/unitree/catkin_ws/install/super_lio/lib:/home/unitree/catkin_ws/install/hesai_ros_driver/lib:/home/unitree/catkin_ws/install/basic/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib
+RMW_IMPLEMENTATION=rmw_fastrtps_cpp
+ROS_DISTRO=humble
+ROS_DOMAIN_ID=30
+ROS_LOCALHOST_ONLY=0
+ROS_PYTHON_VERSION=3
+ROS_VERSION=2
+GO2_BODY_YAW_OFFSET_RAD=-1.5707963267948966
+GO2_BODY_YAW_OFFSET_RAD=-1.5707963267948966
+GO2_BODY_YAW_OFFSET_RAD=-1.5707963267948966

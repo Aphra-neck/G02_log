@@ -1,0 +1,6 @@
+go2-log odometry sampler failed: failed to create guard_condition: the given context is not valid, either rcl_init() was not called or rcl_shutdown() was called., at ./src/rcl/guard_condition.c:67
+Exception ignored in: <function Executor.__del__ at 0xffffb483e9e0>
+Traceback (most recent call last):
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 272, in __del__
+    if self._sigint_gc is not None:
+AttributeError: 'SingleThreadedExecutor' object has no attribute '_sigint_gc'

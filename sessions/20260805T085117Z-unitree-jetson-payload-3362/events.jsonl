@@ -1,0 +1,32 @@
+{"timestamp":"2026-08-05T08:51:17.870783+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-05T08:52:09.907713+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=3527;3538)"}
+{"timestamp":"2026-08-05T08:52:10.016215+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=3657;3665)"}
+{"timestamp":"2026-08-05T08:52:10.117052+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=3731)"}
+{"timestamp":"2026-08-05T08:52:10.239236+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=3884)"}
+{"timestamp":"2026-08-05T08:52:10.335898+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=3890)"}
+{"timestamp":"2026-08-05T08:52:10.438026+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=3900)"}
+{"timestamp":"2026-08-05T08:52:53.881404+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-05T08:52:53.979868+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-05T08:52:54.077075+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-05T08:58:55.035986+00:00","level":"warning","category":"collector","message":"odometry sampler timed out or failed before writing samples"}
+{"timestamp":"2026-08-05T09:02:53.195284+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=7559)"}
+{"timestamp":"2026-08-05T09:02:53.298469+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=7565)"}
+{"timestamp":"2026-08-05T09:02:53.402597+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=7567)"}
+{"timestamp":"2026-08-05T09:13:39.894736+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-05T09:13:39.987052+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
+{"timestamp":"2026-08-05T09:13:40.073781+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-05T09:13:40.165900+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-05T09:13:40.268024+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-05T09:16:28.250809+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-05T09:17:11.834079+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=12733;12736)"}
+{"timestamp":"2026-08-05T09:17:11.929977+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=12799;12811)"}
+{"timestamp":"2026-08-05T09:17:12.024807+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=12843;12844)"}
+{"timestamp":"2026-08-05T09:21:55.552378+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=14607)"}
+{"timestamp":"2026-08-05T09:21:55.659617+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=14620)"}
+{"timestamp":"2026-08-05T09:21:55.760816+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=14627)"}
+{"timestamp":"2026-08-05T09:41:04.882378+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-05T09:41:04.976364+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-05T09:41:05.066320+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
+{"timestamp":"2026-08-05T09:41:05.155420+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-05T09:41:05.244271+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-05T09:41:05.338384+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}

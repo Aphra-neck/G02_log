@@ -1,0 +1,3160 @@
+stamp:
+  sec: 1785919896
+  nanosec: 78019294
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 74
+---
+stamp:
+  sec: 1785919935
+  nanosec: 101235905
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919935
+  nanosec: 269072409
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919935
+  nanosec: 735776724
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919936
+  nanosec: 250515901
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919936
+  nanosec: 733798544
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919937
+  nanosec: 262978827
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919937
+  nanosec: 753137471
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919938
+  nanosec: 271795482
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919938
+  nanosec: 744896945
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919939
+  nanosec: 243579921
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919939
+  nanosec: 751624332
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919940
+  nanosec: 240534173
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919940
+  nanosec: 731706728
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919941
+  nanosec: 239710803
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919941
+  nanosec: 743872190
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785919942
+  nanosec: 261986432
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785920548
+  nanosec: 876631623
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 74
+---
+stamp:
+  sec: 1785921938
+  nanosec: 266070332
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921938
+  nanosec: 464305438
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 80 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921938
+  nanosec: 954682958
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 96 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921939
+  nanosec: 461698857
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921939
+  nanosec: 968607844
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921940
+  nanosec: 488486137
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921940
+  nanosec: 966881278
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921941
+  nanosec: 471386161
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921941
+  nanosec: 986614619
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921942
+  nanosec: 471002953
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921942
+  nanosec: 932951367
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 320 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921943
+  nanosec: 460807657
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921943
+  nanosec: 976970996
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 288 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921944
+  nanosec: 481409258
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 304 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921944
+  nanosec: 979885071
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921945
+  nanosec: 467663813
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921945
+  nanosec: 953649780
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 288 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921946
+  nanosec: 484837448
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921946
+  nanosec: 958042931
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921947
+  nanosec: 443584508
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921947
+  nanosec: 961992274
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921948
+  nanosec: 490051229
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921948
+  nanosec: 958735674
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921949
+  nanosec: 444716292
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921949
+  nanosec: 968353862
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921950
+  nanosec: 471611458
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921950
+  nanosec: 989987379
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921951
+  nanosec: 448009988
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921952
+  nanosec: 484995
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921952
+  nanosec: 475511066
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 608 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921952
+  nanosec: 964760416
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 384 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921953
+  nanosec: 487829800
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921953
+  nanosec: 980218101
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921954
+  nanosec: 460757976
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 288 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921954
+  nanosec: 967472287
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 304 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921955
+  nanosec: 490886274
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921955
+  nanosec: 939068321
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921956
+  nanosec: 464055401
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921956
+  nanosec: 970004986
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921957
+  nanosec: 483492327
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921957
+  nanosec: 962555668
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 384 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921958
+  nanosec: 479200938
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 272 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921958
+  nanosec: 945622021
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 288 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921959
+  nanosec: 449396863
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921959
+  nanosec: 975541354
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921960
+  nanosec: 473345868
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921960
+  nanosec: 948748769
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 336 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921961
+  nanosec: 457277896
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921961
+  nanosec: 949578341
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921962
+  nanosec: 452455517
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 592 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921962
+  nanosec: 999106003
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921963
+  nanosec: 491556565
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921963
+  nanosec: 959052473
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921964
+  nanosec: 453611281
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921964
+  nanosec: 978631832
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921965
+  nanosec: 497448758
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921966
+  nanosec: 56789552
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 320 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921966
+  nanosec: 465407812
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 304 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921966
+  nanosec: 997392691
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921967
+  nanosec: 449624320
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921967
+  nanosec: 987721043
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921968
+  nanosec: 467792892
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921968
+  nanosec: 962935784
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921969
+  nanosec: 479486208
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921969
+  nanosec: 978080989
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921970
+  nanosec: 447251307
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921970
+  nanosec: 990559515
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921971
+  nanosec: 489971186
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921971
+  nanosec: 959584751
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921972
+  nanosec: 478209144
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921972
+  nanosec: 981377357
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921973
+  nanosec: 482521285
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921973
+  nanosec: 965465042
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921974
+  nanosec: 490278141
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 48 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921974
+  nanosec: 958450666
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 224 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921975
+  nanosec: 510600104
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921975
+  nanosec: 960924942
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921976
+  nanosec: 499803469
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921976
+  nanosec: 979422232
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921977
+  nanosec: 485147487
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921977
+  nanosec: 966710454
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921978
+  nanosec: 475912172
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921978
+  nanosec: 961520106
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921979
+  nanosec: 485206219
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921979
+  nanosec: 954157394
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921980
+  nanosec: 492607371
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921980
+  nanosec: 957095911
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921981
+  nanosec: 491820985
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921982
+  nanosec: 22867631
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921982
+  nanosec: 512892523
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921982
+  nanosec: 957590714
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 160 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921983
+  nanosec: 468957481
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 64 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921983
+  nanosec: 985499034
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 64 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921984
+  nanosec: 476169119
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 320 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921984
+  nanosec: 969419732
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921985
+  nanosec: 475533742
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921985
+  nanosec: 991042913
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921986
+  nanosec: 452661281
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921986
+  nanosec: 977926261
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921987
+  nanosec: 455526049
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921987
+  nanosec: 991616483
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921988
+  nanosec: 517473373
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921988
+  nanosec: 951870915
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921989
+  nanosec: 502965824
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921989
+  nanosec: 958825121
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921990
+  nanosec: 483984328
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921991
+  nanosec: 8019680
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921991
+  nanosec: 476149695
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921991
+  nanosec: 938889235
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 624 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921992
+  nanosec: 478887918
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 208 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921992
+  nanosec: 967584421
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921993
+  nanosec: 485806973
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921993
+  nanosec: 994442865
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921994
+  nanosec: 481598091
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 288 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921994
+  nanosec: 976567836
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921995
+  nanosec: 488926619
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921995
+  nanosec: 962421840
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921996
+  nanosec: 485422678
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921996
+  nanosec: 951899689
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921997
+  nanosec: 470613157
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921997
+  nanosec: 980639269
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921998
+  nanosec: 462781483
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921998
+  nanosec: 949206799
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921999
+  nanosec: 452089975
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785921999
+  nanosec: 972631884
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922000
+  nanosec: 492878981
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922000
+  nanosec: 968273734
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922001
+  nanosec: 483903941
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922001
+  nanosec: 955525456
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922002
+  nanosec: 470755855
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922002
+  nanosec: 974798114
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922003
+  nanosec: 463716776
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 624 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922003
+  nanosec: 975158260
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 592 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922004
+  nanosec: 449769330
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 624 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922004
+  nanosec: 955812799
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922005
+  nanosec: 436510810
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922005
+  nanosec: 954216253
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922006
+  nanosec: 451087155
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922006
+  nanosec: 980869150
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922007
+  nanosec: 467914546
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922007
+  nanosec: 983959564
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922008
+  nanosec: 495198400
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922008
+  nanosec: 966337955
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 208 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922009
+  nanosec: 450522454
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 320 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922010
+  nanosec: 6135437
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922010
+  nanosec: 469668027
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922010
+  nanosec: 989813243
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922011
+  nanosec: 492941046
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922011
+  nanosec: 990744741
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922012
+  nanosec: 488339578
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922012
+  nanosec: 968155095
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922013
+  nanosec: 458225162
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922014
+  nanosec: 20667092
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922014
+  nanosec: 454183775
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922015
+  nanosec: 19510361
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922015
+  nanosec: 455109774
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922015
+  nanosec: 966943432
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922016
+  nanosec: 467922283
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922016
+  nanosec: 970381297
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922017
+  nanosec: 469886528
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922017
+  nanosec: 977788230
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922018
+  nanosec: 471256213
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922018
+  nanosec: 966462995
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922019
+  nanosec: 448009754
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922019
+  nanosec: 973699671
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922020
+  nanosec: 456187189
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922020
+  nanosec: 985969974
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922021
+  nanosec: 468924534
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922021
+  nanosec: 982032443
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922022
+  nanosec: 452621950
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922022
+  nanosec: 986396460
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922023
+  nanosec: 489316770
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922023
+  nanosec: 961983918
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922024
+  nanosec: 493960518
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 336 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922024
+  nanosec: 986010882
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922025
+  nanosec: 467288262
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922025
+  nanosec: 964653852
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922026
+  nanosec: 477599224
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922026
+  nanosec: 956867726
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922027
+  nanosec: 485035552
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922027
+  nanosec: 964057623
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922028
+  nanosec: 456774142
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922028
+  nanosec: 970992907
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922029
+  nanosec: 464841361
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922029
+  nanosec: 973321160
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922030
+  nanosec: 502259714
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 624 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922030
+  nanosec: 976840753
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 192 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922031
+  nanosec: 508942660
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922031
+  nanosec: 998714121
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922032
+  nanosec: 486476862
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922032
+  nanosec: 980929280
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922033
+  nanosec: 478636158
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922033
+  nanosec: 955923430
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922034
+  nanosec: 480328160
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922034
+  nanosec: 985600894
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922035
+  nanosec: 465552338
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922035
+  nanosec: 960129144
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922036
+  nanosec: 473777507
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922036
+  nanosec: 945383753
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922037
+  nanosec: 468756692
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922037
+  nanosec: 975653914
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922038
+  nanosec: 467892084
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922038
+  nanosec: 979675297
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922039
+  nanosec: 487819122
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 656 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922039
+  nanosec: 965314877
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 608 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922040
+  nanosec: 492958216
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 640 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922040
+  nanosec: 977573182
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922041
+  nanosec: 441492885
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922041
+  nanosec: 955103377
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922042
+  nanosec: 446732949
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922042
+  nanosec: 952800742
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922043
+  nanosec: 473769568
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922043
+  nanosec: 996365093
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922044
+  nanosec: 489501503
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922044
+  nanosec: 954929173
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922045
+  nanosec: 471053863
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922045
+  nanosec: 986869612
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922046
+  nanosec: 467403357
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922046
+  nanosec: 977528425
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922047
+  nanosec: 490246195
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922047
+  nanosec: 986288138
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922048
+  nanosec: 489484270
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922048
+  nanosec: 983453328
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922049
+  nanosec: 478366596
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922049
+  nanosec: 971069909
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922050
+  nanosec: 453217839
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922050
+  nanosec: 949964703
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922051
+  nanosec: 490133703
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922051
+  nanosec: 972001212
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922052
+  nanosec: 507793574
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 384 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922052
+  nanosec: 986498836
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 384 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922053
+  nanosec: 460862947
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922053
+  nanosec: 973882701
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 704 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922054
+  nanosec: 470978380
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 208 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922054
+  nanosec: 935009134
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922055
+  nanosec: 482729934
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 224 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922055
+  nanosec: 976698630
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 144 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922056
+  nanosec: 455866725
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922056
+  nanosec: 945416829
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 448 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922057
+  nanosec: 471119364
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922057
+  nanosec: 988545493
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922058
+  nanosec: 478537486
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922059
+  nanosec: 21251843
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922059
+  nanosec: 477875543
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922059
+  nanosec: 976680264
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922060
+  nanosec: 457077626
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922060
+  nanosec: 962987541
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922061
+  nanosec: 452223200
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922061
+  nanosec: 983896277
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922062
+  nanosec: 456153059
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 256 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922062
+  nanosec: 965426948
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 368 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922063
+  nanosec: 517528937
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922063
+  nanosec: 994299658
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922064
+  nanosec: 507106874
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 48 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922064
+  nanosec: 944708235
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922065
+  nanosec: 489590453
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922065
+  nanosec: 980726864
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922066
+  nanosec: 446678999
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922066
+  nanosec: 977180058
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922067
+  nanosec: 477194198
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922067
+  nanosec: 940885020
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 496 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922068
+  nanosec: 458085421
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922068
+  nanosec: 997770623
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 576 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922069
+  nanosec: 462691528
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 560 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922069
+  nanosec: 989964235
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922070
+  nanosec: 487728051
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922070
+  nanosec: 966692098
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922071
+  nanosec: 461182234
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 352 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922071
+  nanosec: 962357027
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922072
+  nanosec: 455556966
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922073
+  nanosec: 4775013
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922073
+  nanosec: 498654189
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922073
+  nanosec: 970065332
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922074
+  nanosec: 497448314
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 544 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922074
+  nanosec: 978081003
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922075
+  nanosec: 471699825
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 272 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922075
+  nanosec: 960676932
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922076
+  nanosec: 495043957
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 240 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922076
+  nanosec: 945210273
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922077
+  nanosec: 478547784
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922077
+  nanosec: 992368500
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 176 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922078
+  nanosec: 491230042
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 592 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922078
+  nanosec: 949428671
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922079
+  nanosec: 493328500
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922079
+  nanosec: 964775450
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 416 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922080
+  nanosec: 473509230
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 480 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922080
+  nanosec: 988022313
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922081
+  nanosec: 497410144
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922081
+  nanosec: 983758297
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 400 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922082
+  nanosec: 468503854
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922082
+  nanosec: 987540227
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922083
+  nanosec: 452358445
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922083
+  nanosec: 970864110
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 224 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922084
+  nanosec: 483678576
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 464 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922084
+  nanosec: 986206555
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 432 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922085
+  nanosec: 458358174
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 112 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922085
+  nanosec: 982744502
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 528 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---
+stamp:
+  sec: 1785922086
+  nanosec: 468078648
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 512 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 95
+---

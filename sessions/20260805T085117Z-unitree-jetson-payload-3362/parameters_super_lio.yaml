@@ -1,0 +1,93 @@
+/super_lio:
+  ros__parameters:
+    lio:
+      eva:
+        timer: true
+      extrinsic:
+        lidar_imu:
+        - 0.171
+        - 0.0
+        - 0.0908
+        - 1.0
+        - 0.0
+        - 0.0
+        - 0.0
+        - 1.0
+        - 0.0
+        - 0.0
+        - 0.0
+        - 1.0
+        odom_robo:
+        - 0.0
+        - 0.0
+        - 0.0
+        - 0.0
+        - 0.0
+        - 0.0
+      hash_map:
+        hash_capacity: 100000000
+        vox_resolution: 0.5
+      kf:
+        kf_align_gravity: true
+        kf_max_iterations: 4
+        kf_quit_eps: 0.001
+        kf_type: 0
+      map:
+        ds_size: 0.3
+        if_filter: false
+        map_name: map.pcd
+        save_interval: 500
+        save_map: false
+        save_map_dir: map
+      output:
+        dense: true
+        map: true
+        ml_map: false
+        plan_env_body: false
+        plan_env_world: false
+        planner: false
+        pub_step: 1
+        robot: false
+      relocation:
+        init_pose:
+        - 0.0
+        - 0.0
+        - 0.0
+        - 0.0
+        - 0.0
+        - 0.0
+        update_map: false
+      ros:
+        imu_topic: /imu/data
+        lidar_topic: /lidar_points
+      sensor:
+        blind: 0.5
+        enable_downsample: true
+        filter_rate: 1
+        gravity_norm: 9.4188
+        imu_na: 0.1
+        imu_nba: 0.0001
+        imu_nbg: 0.0001
+        imu_ng: 0.1
+        imu_type: 1
+        lidar_type: 2
+        maxrange: 150.0
+        voxel_fliter_size: 0.3
+      submap:
+        submap_capacity: 0
+        submap_resolution: 0.0
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+      /tf:
+        publisher:
+          depth: 100
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    use_sim_time: false
+
