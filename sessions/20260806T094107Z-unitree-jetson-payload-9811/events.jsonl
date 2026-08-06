@@ -1,0 +1,16 @@
+{"timestamp":"2026-08-06T09:41:07.926408+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-06T09:42:02.353436+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=9959;9977)"}
+{"timestamp":"2026-08-06T09:42:02.452481+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=10033;10036)"}
+{"timestamp":"2026-08-06T09:42:02.549536+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=10079)"}
+{"timestamp":"2026-08-06T09:42:02.660613+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=10281)"}
+{"timestamp":"2026-08-06T09:42:02.788199+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=10287)"}
+{"timestamp":"2026-08-06T09:42:02.887081+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=10289)"}
+{"timestamp":"2026-08-06T09:43:25.617568+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_bridge started (pids=11388)"}
+{"timestamp":"2026-08-06T09:44:07.045475+00:00","level":"warning","category":"lifecycle","message":"go2_sdk2_bridge stopped"}
+{"timestamp":"2026-08-06T09:54:41.468868+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-06T09:54:41.559654+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
+{"timestamp":"2026-08-06T09:54:41.650175+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-06T09:54:41.745462+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-06T09:54:41.840181+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-06T09:55:24.952059+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-06T09:56:04.184557+00:00","level":"info","category":"collector","message":"collector stopped"}
