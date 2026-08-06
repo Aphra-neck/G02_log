@@ -1,0 +1,6 @@
+captured_at=2026-08-06T09:58:18Z
+repository=/home/unitree/catkin_ws
+sha=40a3fa9487f9e3e9422348948aab0afd27647f69
+branch=ROS2
+worktree_status:
+?? CMakeFiles/

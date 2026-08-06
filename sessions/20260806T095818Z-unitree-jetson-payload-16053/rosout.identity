@@ -1,0 +1,7 @@
+pid=16123
+boot_id=c9a50b7e-6e7a-4dad-b13e-4606943c4a2a
+start_ticks=235988
+pgid=16123
+session_dir=/home/unitree/go2_logs/sessions/20260806T095818Z-unitree-jetson-payload-16053
+collector_pid=16113
+captured_at=2026-08-06T09:58:18Z

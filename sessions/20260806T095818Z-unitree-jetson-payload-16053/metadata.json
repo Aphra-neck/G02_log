@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "session_id": "20260806T095818Z-unitree-jetson-payload-16053",
+  "started_at": "2026-08-06T09:58:18Z",
+  "hostname": "unitree-jetson-payload",
+  "machine": "aarch64",
+  "platform": "Linux-5.15.148-tegra-aarch64-with-glibc2.35",
+  "source_repository": "/home/unitree/catkin_ws",
+  "size_limit_bytes": 104857600
+}
