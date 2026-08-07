@@ -1,0 +1,3 @@
+timestamp,status,file_size_bytes,mtime_epoch,last_frame,frame_delta,last_points,last_packets,last_start_time,last_end_time,tail_warning_lines,tail_error_lines
+2026-08-07T07:09:58Z,ok,321757,1786084590,3384,,64000,500,1786084589.935529,1786084590.035671,0,0
+2026-08-07T07:11:03Z,frame_reset,61461,1786086664,641,,64000,500,1786086664.840435,1786086664.940046,0,0
