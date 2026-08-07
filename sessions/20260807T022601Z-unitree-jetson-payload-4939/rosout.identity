@@ -1,0 +1,7 @@
+pid=5009
+boot_id=6ad74017-e0b7-4457-b63a-911a306e2078
+start_ticks=434683
+pgid=5009
+session_dir=/home/unitree/go2_logs/sessions/20260807T022601Z-unitree-jetson-payload-4939
+collector_pid=4999
+captured_at=2026-08-07T02:26:02Z
