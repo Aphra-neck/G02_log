@@ -1,0 +1,2930 @@
+stamp:
+  sec: 1786090891
+  nanosec: 859680550
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.413 s, receive_gap=1.373 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091142
+  nanosec: 427449550
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091142
+  nanosec: 431485433
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091142
+  nanosec: 472523384
+level: 30
+name: super_lio_node
+msg: New subscription discovered on topic '/lio/cloud_world', requesting incompatible QoS. No messages will be sent to it. Last incom...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091144
+  nanosec: 365748870
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.222 s, receive_gap=0.34...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091147
+  nanosec: 365767138
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=3.124 s, receive_gap=0.19...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091150
+  nanosec: 378596608
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=4.711 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091153
+  nanosec: 865913337
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=6.421 s, receive_gap=0.02...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091156
+  nanosec: 866037869
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.244 s, receive_gap=0.08...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091159
+  nanosec: 866039589
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.549 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091162
+  nanosec: 866069568
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.933 s, receive_gap=0.22...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091166
+  nanosec: 196617592
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091166
+  nanosec: 201955516
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091166
+  nanosec: 209035458
+level: 30
+name: super_lio_node
+msg: New subscription discovered on topic '/lio/cloud_world', requesting incompatible QoS. No messages will be sent to it. Last incom...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091167
+  nanosec: 866247666
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.021 s, receive_gap=0.04...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091170
+  nanosec: 866293009
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=2.921 s, receive_gap=0.17...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091174
+  nanosec: 366565953
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=4.525 s, receive_gap=0.08...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091177
+  nanosec: 866374449
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=6.319 s, receive_gap=0.18...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091180
+  nanosec: 866520516
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.501 s, receive_gap=0.23...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091383
+  nanosec: 585623966
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.045 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091383
+  nanosec: 585946151
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786091402
+  nanosec: 991576718
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091402
+  nanosec: 999898371
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091403
+  nanosec: 6748621
+level: 30
+name: super_lio_node
+msg: New subscription discovered on topic '/lio/cloud_world', requesting incompatible QoS. No messages will be sent to it. Last incom...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091403
+  nanosec: 786263339
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.543 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091403
+  nanosec: 787015489
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786091404
+  nanosec: 186512020
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786091404
+  nanosec: 873351911
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.132 s, receive_gap=0.23...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091406
+  nanosec: 891141220
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 2.446 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091407
+  nanosec: 873466808
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=2.730 s, receive_gap=0.17...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091410
+  nanosec: 10380817
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 4.037 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091410
+  nanosec: 873492671
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=4.588 s, receive_gap=0.12...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091413
+  nanosec: 382719706
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 6.146 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091413
+  nanosec: 873602989
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=6.339 s, receive_gap=0.13...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091416
+  nanosec: 881917750
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.193 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091416
+  nanosec: 897622233
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.209 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091420
+  nanosec: 373795411
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.211 s, receive_gap=0.15...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091420
+  nanosec: 386402266
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.223 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091423
+  nanosec: 373878023
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.427 s, receive_gap=0.06...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091423
+  nanosec: 387705263
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.441 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091432
+  nanosec: 887076493
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.040 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091432
+  nanosec: 890831638
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786091588
+  nanosec: 920459500
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.381 s, receive_gap=1.310 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091593
+  nanosec: 920589197
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.079 s, receive_gap=0.97...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091596
+  nanosec: 920677648
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=4.079 s, receive_gap=3.972 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091600
+  nanosec: 420739671
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.177 s, receive_gap=1.101 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091603
+  nanosec: 920837229
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.177 s, receive_gap=1.117 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091716
+  nanosec: 135666611
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091716
+  nanosec: 139796050
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091716
+  nanosec: 151976072
+level: 30
+name: super_lio_node
+msg: New subscription discovered on topic '/lio/cloud_world', requesting incompatible QoS. No messages will be sent to it. Last incom...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786091719
+  nanosec: 40783371
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.297 s, receive_gap=0.18...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091722
+  nanosec: 40807956
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=2.301 s, receive_gap=0.24...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091725
+  nanosec: 40851251
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=3.497 s, receive_gap=0.17...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091728
+  nanosec: 40927787
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=5.395 s, receive_gap=0.18...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091731
+  nanosec: 40972922
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=6.267 s, receive_gap=0.03...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091734
+  nanosec: 41955800
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.078 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091736
+  nanosec: 58385940
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.555 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091737
+  nanosec: 541137732
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.719 s, receive_gap=0.14...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091739
+  nanosec: 558805823
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.486 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091740
+  nanosec: 541215101
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.696 s, receive_gap=0.07...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091742
+  nanosec: 796460382
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.115 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091743
+  nanosec: 541315187
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.682 s, receive_gap=0.08...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091746
+  nanosec: 55207925
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.969 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091746
+  nanosec: 541338564
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.086 s, receive_gap=0.14...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091749
+  nanosec: 541426548
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.156 s, receive_gap=0.08...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091749
+  nanosec: 563384199
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.178 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091752
+  nanosec: 541525411
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.404 s, receive_gap=0.13...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091753
+  nanosec: 51335073
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.427 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091755
+  nanosec: 541683603
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.110 s, receive_gap=0.15...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091756
+  nanosec: 62026363
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.312 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091758
+  nanosec: 551437917
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.638 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091759
+  nanosec: 320405866
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.085 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091762
+  nanosec: 41679485
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.422 s, receive_gap=0.09...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091762
+  nanosec: 552335324
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.230 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091765
+  nanosec: 41800105
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.780 s, receive_gap=0.03...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091765
+  nanosec: 552825772
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.053 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091768
+  nanosec: 41849751
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.300 s, receive_gap=0.06...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091769
+  nanosec: 59585201
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.380 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091771
+  nanosec: 41871463
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.349 s, receive_gap=0.01...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091772
+  nanosec: 62845185
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.435 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091774
+  nanosec: 41978685
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.795 s, receive_gap=0.21...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091775
+  nanosec: 64424495
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.829 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091777
+  nanosec: 42059479
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.278 s, receive_gap=0.16...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091778
+  nanosec: 550062701
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.978 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091780
+  nanosec: 42296153
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.533 s, receive_gap=0.05...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091781
+  nanosec: 555825696
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.124 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091783
+  nanosec: 42346301
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.759 s, receive_gap=0.04...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091785
+  nanosec: 51269786
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.157 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091786
+  nanosec: 542303567
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.303 s, receive_gap=0.15...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091788
+  nanosec: 552729946
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.709 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091789
+  nanosec: 542346236
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.481 s, receive_gap=0.20...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091791
+  nanosec: 560516038
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.461 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091792
+  nanosec: 542402192
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.614 s, receive_gap=0.21...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091795
+  nanosec: 51441755
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.054 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091795
+  nanosec: 544431066
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.079 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091798
+  nanosec: 555821664
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.010 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091799
+  nanosec: 42605551
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.497 s, receive_gap=0.21...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091801
+  nanosec: 562689640
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.569 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091802
+  nanosec: 42616473
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.134 s, receive_gap=0.13...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091805
+  nanosec: 42669070
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=9.371 s, receive_gap=0.11...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091805
+  nanosec: 51761435
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 9.380 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091808
+  nanosec: 42771599
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.835 s, receive_gap=0.07...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091808
+  nanosec: 52204323
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.845 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091811
+  nanosec: 42809689
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.557 s, receive_gap=0.10...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091811
+  nanosec: 553999295
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.600 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786091814
+  nanosec: 51373614
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.583 s, receive_gap=0.00...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786091815
+  nanosec: 52211150
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.584 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092061
+  nanosec: 21400479
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 91
+---
+stamp:
+  sec: 1786092061
+  nanosec: 335092274
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 141
+---
+stamp:
+  sec: 1786092061
+  nanosec: 848106305
+level: 40
+name: rviz2
+msg: "Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : \nac..."
+file: ./src/main.cpp
+function: operator()
+line: 68
+---
+stamp:
+  sec: 1786092070
+  nanosec: 335352406
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.096 s, receive_gap=1.057 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092073
+  nanosec: 335719939
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.494 s, receive_gap=1.458 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092079
+  nanosec: 835506859
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.398 s, receive_gap=1.349 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092082
+  nanosec: 835550920
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.898 s, receive_gap=1.830 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092089
+  nanosec: 835739600
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.096 s, receive_gap=1.039 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092090
+  nanosec: 863743922
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092091
+  nanosec: 842671342
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.905 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092093
+  nanosec: 835849913
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.196 s, receive_gap=1.027 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092094
+  nanosec: 847560014
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 2.208 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092095
+  nanosec: 842236200
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092097
+  nanosec: 499176874
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092097
+  nanosec: 835950652
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.392 s, receive_gap=1.323 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092097
+  nanosec: 851455510
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.408 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092099
+  nanosec: 843502308
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092101
+  nanosec: 335983220
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.095 s, receive_gap=1.019 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092101
+  nanosec: 348106978
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.107 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092103
+  nanosec: 199136583
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092104
+  nanosec: 336090594
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.699 s, receive_gap=1.641 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092104
+  nanosec: 361021326
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.724 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092106
+  nanosec: 355541872
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092107
+  nanosec: 836158293
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.001 s, receive_gap=0.93...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092107
+  nanosec: 856310646
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.021 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092108
+  nanosec: 799503698
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092109
+  nanosec: 850197161
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092111
+  nanosec: 950778820
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.511 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092112
+  nanosec: 863493303
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092113
+  nanosec: 836243397
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.297 s, receive_gap=1.263 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092116
+  nanosec: 370273817
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092117
+  nanosec: 699398539
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.560 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092117
+  nanosec: 699829876
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092118
+  nanosec: 499567249
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092119
+  nanosec: 336371496
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.397 s, receive_gap=1.341 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092119
+  nanosec: 844260477
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092120
+  nanosec: 843679611
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.704 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092124
+  nanosec: 299521384
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.062 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092124
+  nanosec: 299939314
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092124
+  nanosec: 336523873
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.099 s, receive_gap=1.057 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092124
+  nanosec: 848990108
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092126
+  nanosec: 99715032
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092126
+  nanosec: 999793679
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092130
+  nanosec: 799673482
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.563 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092130
+  nanosec: 800039570
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092132
+  nanosec: 299953501
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092132
+  nanosec: 845006093
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092134
+  nanosec: 846218297
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.507 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092136
+  nanosec: 300235781
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092136
+  nanosec: 836757270
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.097 s, receive_gap=1.028 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092137
+  nanosec: 847465389
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092139
+  nanosec: 499864443
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.563 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092139
+  nanosec: 500219075
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092140
+  nanosec: 9698
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092140
+  nanosec: 336839154
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.399 s, receive_gap=1.323 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092141
+  nanosec: 844685868
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092146
+  nanosec: 346668822
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.509 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092146
+  nanosec: 347030878
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092147
+  nanosec: 800282645
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092149
+  nanosec: 100219957
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092149
+  nanosec: 351630742
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.520 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092150
+  nanosec: 300223331
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092150
+  nanosec: 837077274
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.100 s, receive_gap=1.055 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092151
+  nanosec: 845291671
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092153
+  nanosec: 163638
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.559 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092153
+  nanosec: 561951
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092154
+  nanosec: 700437451
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092154
+  nanosec: 865621451
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092157
+  nanosec: 600330723
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.561 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092157
+  nanosec: 600754764
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092158
+  nanosec: 343418028
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092159
+  nanosec: 200464224
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092161
+  nanosec: 100337298
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.063 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092161
+  nanosec: 100699866
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092161
+  nanosec: 337312145
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.300 s, receive_gap=1.213 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092162
+  nanosec: 844885119
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092166
+  nanosec: 347618728
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.512 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092166
+  nanosec: 347986224
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092167
+  nanosec: 347184769
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092171
+  nanosec: 300567358
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.562 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092171
+  nanosec: 300963367
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092171
+  nanosec: 848232869
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092175
+  nanosec: 353034903
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092176
+  nanosec: 346923729
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.707 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092176
+  nanosec: 837648067
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.198 s, receive_gap=1.147 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092179
+  nanosec: 354786085
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092180
+  nanosec: 500766458
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.560 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092180
+  nanosec: 501119330
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092184
+  nanosec: 200870502
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.564 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092184
+  nanosec: 201262159
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092184
+  nanosec: 337811248
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.101 s, receive_gap=1.063 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092184
+  nanosec: 846936316
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092188
+  nanosec: 300952318
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.562 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092188
+  nanosec: 301416296
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092189
+  nanosec: 347776401
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092189
+  nanosec: 348280284
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092191
+  nanosec: 844418854
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.903 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092192
+  nanosec: 337996375
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.397 s, receive_gap=1.367 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092192
+  nanosec: 863426253
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092194
+  nanosec: 301247492
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092194
+  nanosec: 846227181
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.309 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092196
+  nanosec: 501311979
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092197
+  nanosec: 802079028
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092198
+  nanosec: 345965541
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.509 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092198
+  nanosec: 346493361
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092200
+  nanosec: 201359119
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092203
+  nanosec: 345200207
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092203
+  nanosec: 345557911
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092205
+  nanosec: 350991277
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.516 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092205
+  nanosec: 351368373
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092205
+  nanosec: 838330930
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.003 s, receive_gap=0.95...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092206
+  nanosec: 501554308
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092207
+  nanosec: 501487233
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092210
+  nanosec: 602610663
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.563 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092210
+  nanosec: 603004976
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092210
+  nanosec: 847663544
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092212
+  nanosec: 338469768
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.297 s, receive_gap=1.235 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092213
+  nanosec: 845632036
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.104 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092214
+  nanosec: 846355058
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092215
+  nanosec: 838523361
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.098 s, receive_gap=1.050 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092219
+  nanosec: 346279492
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092219
+  nanosec: 346649612
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092222
+  nanosec: 702317139
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.567 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092222
+  nanosec: 702855519
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092222
+  nanosec: 838704016
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.100 s, receive_gap=1.052 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092223
+  nanosec: 601893716
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092227
+  nanosec: 1869940
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.564 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092227
+  nanosec: 2250716
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092227
+  nanosec: 338782882
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.201 s, receive_gap=1.162 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092229
+  nanosec: 380476955
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092232
+  nanosec: 601883826
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.563 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092232
+  nanosec: 602284731
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092233
+  nanosec: 346292946
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092238
+  nanosec: 802110818
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.561 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092238
+  nanosec: 802634510
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092240
+  nanosec: 802262396
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092241
+  nanosec: 839134508
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.004 s, receive_gap=0.94...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092241
+  nanosec: 877422081
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.042 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092241
+  nanosec: 877781577
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092243
+  nanosec: 102342060
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092243
+  nanosec: 346839216
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092245
+  nanosec: 102211775
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.565 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092245
+  nanosec: 102632776
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092246
+  nanosec: 302367075
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092247
+  nanosec: 345600448
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092248
+  nanosec: 345778463
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.609 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092249
+  nanosec: 102487664
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092250
+  nanosec: 702509019
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092251
+  nanosec: 302535115
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092251
+  nanosec: 354205706
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.613 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092251
+  nanosec: 839332476
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.098 s, receive_gap=1.042 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092252
+  nanosec: 348414851
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092253
+  nanosec: 802612447
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092255
+  nanosec: 2443226
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.568 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092255
+  nanosec: 2826563
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092255
+  nanosec: 839410598
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.404 s, receive_gap=1.331 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092256
+  nanosec: 347230130
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092258
+  nanosec: 802536063
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.562 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092258
+  nanosec: 802934472
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092259
+  nanosec: 339507828
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.099 s, receive_gap=1.025 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092260
+  nanosec: 349429194
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092263
+  nanosec: 2618573
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.568 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092263
+  nanosec: 3058071
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092263
+  nanosec: 861779495
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092267
+  nanosec: 802879693
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.562 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092267
+  nanosec: 803327511
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092268
+  nanosec: 340077446
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.099 s, receive_gap=1.018 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092268
+  nanosec: 855558171
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092271
+  nanosec: 350921731
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.514 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092271
+  nanosec: 351257707
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: stale or invalid map/odometry timestamp'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 320
+---
+stamp:
+  sec: 1786092271
+  nanosec: 839813928
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.403 s, receive_gap=1.369 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092273
+  nanosec: 847245792
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092274
+  nanosec: 354980648
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.618 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092277
+  nanosec: 349124112
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092278
+  nanosec: 847713894
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.511 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092280
+  nanosec: 851613422
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092283
+  nanosec: 850403900
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.716 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092284
+  nanosec: 355767824
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 3584 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092287
+  nanosec: 862662542
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 3600 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092289
+  nanosec: 859808703
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.721 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092290
+  nanosec: 867327614
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 3552 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092292
+  nanosec: 840253171
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.106 s, receive_gap=1.051 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092294
+  nanosec: 364265821
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 3584 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
+stamp:
+  sec: 1786092296
+  nanosec: 348516014
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.514 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 303
+---
+stamp:
+  sec: 1786092296
+  nanosec: 840329332
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.006 s, receive_gap=0.91...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 166
+---
+stamp:
+  sec: 1786092297
+  nanosec: 848748583
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 215
+---
