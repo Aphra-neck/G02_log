@@ -1,0 +1,8 @@
+pid=14642
+boot_id=a8aa7f97-297b-4e6f-aa03-5cb98dc9a7d5
+start_ticks=454571
+pgid=14642
+session_dir=/home/unitree/go2_logs/sessions/20260810T062609Z-unitree-jetson-payload-14562
+writer=rosout
+collector_pid=14632
+captured_at=2026-08-10T06:26:09Z
