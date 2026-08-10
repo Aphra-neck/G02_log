@@ -1,0 +1,400 @@
+stamp:
+  sec: 1786339100
+  nanosec: 279473926
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 214
+---
+stamp:
+  sec: 1786339180
+  nanosec: 560235630
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339183
+  nanosec: 790535651
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339186
+  nanosec: 801404675
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339187
+  nanosec: 799477293
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.676 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786339190
+  nanosec: 301046889
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339193
+  nanosec: 793231600
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339196
+  nanosec: 800619477
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339200
+  nanosec: 289840540
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339203
+  nanosec: 295565597
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339206
+  nanosec: 793048582
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339210
+  nanosec: 293251950
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339213
+  nanosec: 792910497
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339216
+  nanosec: 793577982
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339220
+  nanosec: 292927120
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339223
+  nanosec: 295484733
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339226
+  nanosec: 790953030
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339229
+  nanosec: 793653842
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339232
+  nanosec: 793934800
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339236
+  nanosec: 298388980
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339239
+  nanosec: 791450811
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339268
+  nanosec: 625978975
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 214
+---
+stamp:
+  sec: 1786339269
+  nanosec: 183245292
+level: 40
+name: rviz2
+msg: "Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : \nac..."
+file: ./src/main.cpp
+function: operator()
+line: 68
+---
+stamp:
+  sec: 1786339274
+  nanosec: 126119758
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.105 s, receive_gap=1.033 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339279
+  nanosec: 126204279
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.207 s, receive_gap=1.132 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339280
+  nanosec: 467078167
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timestamp discontinuity: source_delta=2.396 s, receive_gap=2.473 s, integration_window=1.500 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 197
+---
+stamp:
+  sec: 1786339282
+  nanosec: 126272164
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.009 s, receive_gap=0.90...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339286
+  nanosec: 126334693
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.405 s, receive_gap=1.290 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339286
+  nanosec: 393945628
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timestamp discontinuity: source_delta=1.600 s, receive_gap=1.557 s, integration_window=1.500 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 197
+---
+stamp:
+  sec: 1786339289
+  nanosec: 126378371
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.209 s, receive_gap=1.134 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339290
+  nanosec: 128276273
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timestamp discontinuity: source_delta=2.104 s, receive_gap=2.136 s, integration_window=1.500 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 197
+---
+stamp:
+  sec: 1786339292
+  nanosec: 126543164
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.407 s, receive_gap=1.360 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339292
+  nanosec: 897182400
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 2.178 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786339293
+  nanosec: 88947349
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timestamp discontinuity: source_delta=2.298 s, receive_gap=2.323 s, integration_window=1.500 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 197
+---
+stamp:
+  sec: 1786339293
+  nanosec: 157508012
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339295
+  nanosec: 626492037
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.507 s, receive_gap=1.424 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786339296
+  nanosec: 141174555
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 2.022 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786339297
+  nanosec: 784870170
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timestamp discontinuity: source_delta=3.598 s, receive_gap=3.582 s, integration_window=1.500 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 197
+---
+stamp:
+  sec: 1786339298
+  nanosec: 135966021
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786339299
+  nanosec: 126578839
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.310 s, receive_gap=1.161 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
