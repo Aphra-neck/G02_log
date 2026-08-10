@@ -1,0 +1,320 @@
+stamp:
+  sec: 1786333424
+  nanosec: 43774552
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1104, observation_ready_cells=0, start_observation_ready_cells=0, fea...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 290
+---
+stamp:
+  sec: 1786333604
+  nanosec: 745089453
+level: 30
+name: super_lio_node
+msg: New subscription discovered on topic '/lio/cloud_world', requesting incompatible QoS. No messages will be sent to it. Last incom...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786333604
+  nanosec: 763920198
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786333604
+  nanosec: 765977679
+level: 30
+name: body_odom_adapter
+msg: New subscription discovered on topic '/lio/body_odom', requesting incompatible QoS. No messages will be sent to it. Last incompa...
+file: ./src/rclcpp/publisher_base.cpp
+function: default_incompatible_qos_callback
+line: 273
+---
+stamp:
+  sec: 1786333607
+  nanosec: 45509410
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=1.186 s, receive_gap=0.02...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333610
+  nanosec: 45804648
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=2.591 s, receive_gap=0.17...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333613
+  nanosec: 545752416
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=4.049 s, receive_gap=0.12...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333613
+  nanosec: 717816911
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.295 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333614
+  nanosec: 636151079
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 4.693 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333616
+  nanosec: 545853769
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=5.511 s, receive_gap=0.35...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333617
+  nanosec: 532168994
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.283 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333618
+  nanosec: 54809862
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 6.530 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333619
+  nanosec: 545966336
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=6.785 s, receive_gap=0.48...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333621
+  nanosec: 22765967
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.280 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333621
+  nanosec: 56005035
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.183 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333622
+  nanosec: 546142536
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.871 s, receive_gap=0.05...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333624
+  nanosec: 56817839
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.608 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333625
+  nanosec: 546245817
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.565 s, receive_gap=0.05...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333626
+  nanosec: 799280388
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.327 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333627
+  nanosec: 554558239
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.400 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333628
+  nanosec: 546350711
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.836 s, receive_gap=0.09...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333630
+  nanosec: 121982770
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.238 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333630
+  nanosec: 557315151
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.146 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333631
+  nanosec: 546924690
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.652 s, receive_gap=0.26...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333633
+  nanosec: 439213788
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.235 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333634
+  nanosec: 51416539
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1191, observation_ready_cells=0, start_observation_ready_cells=0, fea...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 290
+---
+stamp:
+  sec: 1786333634
+  nanosec: 555815777
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 8.039 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333635
+  nanosec: 46516992
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=8.074 s, receive_gap=0.04...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333637
+  nanosec: 412611153
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.250 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
+stamp:
+  sec: 1786333637
+  nanosec: 556461430
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 7.733 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 342
+---
+stamp:
+  sec: 1786333638
+  nanosec: 46642350
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=stale_source_stamp_or_cloud_backlog, header_age=7.721 s, receive_gap=0.11...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 241
+---
+stamp:
+  sec: 1786333640
+  nanosec: 584459237
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.298 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 187
+---
