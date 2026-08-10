@@ -1,0 +1,18 @@
+{"timestamp":"2026-08-10T01:54:04.926575+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-10T01:54:42.724642+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T01:55:31.474709+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=10491;10494)"}
+{"timestamp":"2026-08-10T01:55:31.583821+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=10545;10548)"}
+{"timestamp":"2026-08-10T01:55:31.694627+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=10579)"}
+{"timestamp":"2026-08-10T01:55:31.802414+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=10771)"}
+{"timestamp":"2026-08-10T01:55:31.922501+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=10777)"}
+{"timestamp":"2026-08-10T01:55:32.034123+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=10781)"}
+{"timestamp":"2026-08-10T01:58:43.091722+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T01:58:47.149122+00:00","level":"warning","category":"collector","message":"parameter capture for /terrain_mapper failed or was empty (exit 1); will retry"}
+{"timestamp":"2026-08-10T01:59:30.160242+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-10T01:59:30.249709+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-10T01:59:30.345385+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
+{"timestamp":"2026-08-10T01:59:30.434867+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-10T01:59:30.538670+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-10T01:59:30.630042+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-10T02:03:01.440768+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 143"}
+{"timestamp":"2026-08-10T02:03:02.324183+00:00","level":"info","category":"collector","message":"collector stopped"}
