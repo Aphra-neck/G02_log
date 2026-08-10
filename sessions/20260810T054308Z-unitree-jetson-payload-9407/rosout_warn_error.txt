@@ -1,0 +1,80 @@
+stamp:
+  sec: 1786340707
+  nanosec: 232248899
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340710
+  nanosec: 361990688
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340713
+  nanosec: 366572242
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340716
+  nanosec: 369813117
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340719
+  nanosec: 878771833
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340723
+  nanosec: 361652313
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340726
+  nanosec: 859243170
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=support_not_flat)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 247
+---
+stamp:
+  sec: 1786340727
+  nanosec: 355100093
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1081, observation_ready_cells=918, start_observation_ready_cells=0, f...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 290
+---
