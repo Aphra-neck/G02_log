@@ -1,0 +1,15 @@
+/go2_imu_bridge:
+  ros__parameters:
+    frame_id: go2_imu
+    imu_topic: /imu/data
+    net: enP8p1s0
+    publish_rate: 200.0
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    use_sim_time: false
+
