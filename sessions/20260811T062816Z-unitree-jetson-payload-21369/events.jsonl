@@ -1,0 +1,17 @@
+{"timestamp":"2026-08-11T06:28:17.197135+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-11T06:28:17.527714+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_bridge started (pids=7374)"}
+{"timestamp":"2026-08-11T06:29:04.521135+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T06:29:55.618166+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=21687;21704)"}
+{"timestamp":"2026-08-11T06:29:55.746278+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=21762;21765)"}
+{"timestamp":"2026-08-11T06:29:55.863351+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=21800)"}
+{"timestamp":"2026-08-11T06:29:55.971652+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=21992)"}
+{"timestamp":"2026-08-11T06:29:56.081422+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=22004)"}
+{"timestamp":"2026-08-11T06:29:56.193574+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=22006)"}
+{"timestamp":"2026-08-11T06:29:56.305087+00:00","level":"warning","category":"lifecycle","message":"go2_sdk2_bridge stopped"}
+{"timestamp":"2026-08-11T06:33:08.376249+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T06:36:33.910783+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-11T06:36:58.345425+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T06:40:15.870868+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-11T06:40:40.528011+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T06:44:22.764751+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T06:46:53.112784+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}

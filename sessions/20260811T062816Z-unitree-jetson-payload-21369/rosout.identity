@@ -1,0 +1,8 @@
+pid=21448
+boot_id=692ec8e3-6a10-4f1d-afa6-fc7d299fac0c
+start_ticks=217572
+pgid=21448
+session_dir=/home/unitree/go2_logs/sessions/20260811T062816Z-unitree-jetson-payload-21369
+writer=rosout
+collector_pid=21438
+captured_at=2026-08-11T06:28:17Z
