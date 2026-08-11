@@ -1,0 +1,19 @@
+{"timestamp":"2026-08-10T07:39:44.576959+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-10T07:40:21.978244+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T07:41:10.659821+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=4259;4265)"}
+{"timestamp":"2026-08-10T07:41:10.769595+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=4318;4321)"}
+{"timestamp":"2026-08-10T07:41:10.877369+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=4352)"}
+{"timestamp":"2026-08-10T07:41:10.988637+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=4562)"}
+{"timestamp":"2026-08-10T07:41:11.097930+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=4568)"}
+{"timestamp":"2026-08-10T07:41:11.202978+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=4579)"}
+{"timestamp":"2026-08-10T07:43:38.473347+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-10T07:43:38.586182+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-10T07:43:38.701255+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-10T07:44:08.516578+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T07:44:52.367977+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=6839)"}
+{"timestamp":"2026-08-10T07:44:52.489945+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=6845)"}
+{"timestamp":"2026-08-10T07:44:52.605190+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=6847)"}
+{"timestamp":"2026-08-10T07:48:00.264898+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T07:51:43.728028+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T07:55:19.573032+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-10T07:58:55.942032+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
