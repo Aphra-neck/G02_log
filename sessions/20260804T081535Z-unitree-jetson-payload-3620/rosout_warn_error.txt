@@ -1,0 +1,30 @@
+stamp:
+  sec: 1785831379
+  nanosec: 642839212
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 74
+---
+stamp:
+  sec: 1785831380
+  nanosec: 671878564
+level: 40
+name: rviz2
+msg: "Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : \nac..."
+file: ./src/main.cpp
+function: operator()
+line: 68
+---
+stamp:
+  sec: 1785832350
+  nanosec: 973196041
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 74
+---

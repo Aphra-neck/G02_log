@@ -1,0 +1,5 @@
+/lidar_imu [sensor_msgs/msg/Imu]
+/lidar_packets_loss [hesai_ros_driver/msg/LossPacket]
+/lidar_points [sensor_msgs/msg/PointCloud2]
+/parameter_events [rcl_interfaces/msg/ParameterEvent]
+/rosout [rcl_interfaces/msg/Log]
