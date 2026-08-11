@@ -1,0 +1,25 @@
+captured_at=2026-08-11T01:29:06Z
+repository=/home/unitree/catkin_ws
+sha=c6fda4453167969f026fa011431f7663c880b5b0
+branch=ROS2
+worktree_status:
+M  shell/start_navigation.sh
+M  src/utree_dog_navigation/CMakeLists.txt
+M  src/utree_dog_navigation/config/terrain_navigation.yaml
+M  src/utree_dog_navigation/include/utree_dog_navigation/body_lattice_planner_node.hpp
+M  src/utree_dog_navigation/include/utree_dog_navigation/lattice_planner.hpp
+M  src/utree_dog_navigation/include/utree_dog_navigation/terrain_map_builder.hpp
+M  src/utree_dog_navigation/include/utree_dog_navigation/terrain_mapper_node.hpp
+M  src/utree_dog_navigation/launch/terrain_navigation.launch.py
+A  src/utree_dog_navigation/rviz/flat_obstacle_navigation.rviz
+M  src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+M  src/utree_dog_navigation/src/lattice_planner.cpp
+M  src/utree_dog_navigation/src/terrain_map_builder.cpp
+M  src/utree_dog_navigation/src/terrain_mapper_node.cpp
+M  src/utree_dog_navigation/test/test_body_lattice_planner_node.cpp
+M  src/utree_dog_navigation/test/test_lattice_planner.cpp
+M  src/utree_dog_navigation/test/test_terrain_map_builder.cpp
+M  src/utree_dog_navigation/test/test_terrain_mapper_node.cpp
+M  tools/test_start_navigation.sh
+M  tools/test_terrain_navigation_launch.py
+?? CMakeFiles/

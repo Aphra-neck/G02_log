@@ -1,0 +1,380 @@
+stamp:
+  sec: 1786411753
+  nanosec: 93957845
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=252.0ms samples=123 anomalies=1 frame=0 src_age=-1.0ms points=0/0 imu=0 queue=0/...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411758
+  nanosec: 95021773
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=1893.3ms samples=2172 anomalies=791 frame=0 src_age=-1.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411762
+  nanosec: 357827314
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 207
+---
+stamp:
+  sec: 1786411772
+  nanosec: 708253630
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=266.9ms samples=1218 anomalies=1 frame=0 src_age=266.9ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411777
+  nanosec: 709564339
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=257.8ms samples=1077 anomalies=1 frame=0 src_age=257.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411791
+  nanosec: 896749999
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.5ms samples=1196 anomalies=1 frame=0 src_age=251.5ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411792
+  nanosec: 262041328
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.054 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786411796
+  nanosec: 897216326
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=461.3ms samples=1325 anomalies=7 frame=0 src_age=461.3ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411827
+  nanosec: 316976389
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=271.5ms samples=53 anomalies=1 frame=0 src_age=271.5ms points=0/0 imu=0 queue=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411832
+  nanosec: 318247432
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=285.6ms samples=1264 anomalies=5 frame=0 src_age=285.6ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411855
+  nanosec: 654839780
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=odom_publish max=342.9ms samples=853 anomalies=1 frame=1006 src_age=113.7ms points=61612/1836 imu=16 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411860
+  nanosec: 659063497
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_executor_backlog max=410.9ms samples=1433 anomalies=9 frame=0 src_age=520.3ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411899
+  nanosec: 680223545
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=253.8ms samples=1090 anomalies=1 frame=0 src_age=253.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411909
+  nanosec: 378265171
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=253.4ms samples=1309 anomalies=1 frame=0 src_age=253.4ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411932
+  nanosec: 307805040
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=284.9ms samples=1078 anomalies=1 frame=0 src_age=284.9ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411937
+  nanosec: 308887977
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=256.6ms samples=1211 anomalies=1 frame=1776 src_age=256.6ms points=61618/1842 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411946
+  nanosec: 193483568
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=273.0ms samples=1091 anomalies=1 frame=0 src_age=273.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411955
+  nanosec: 277289450
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_imu_behind max=250.7ms samples=1205 anomalies=1 frame=0 src_age=157.7ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411955
+  nanosec: 312133953
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.014 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786411960
+  nanosec: 278947680
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=336.3ms samples=1538 anomalies=2 frame=2004 src_age=361.5ms points=61632/1832 imu=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411961
+  nanosec: 310795354
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.015 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786411964
+  nanosec: 337856244
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.026 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786411965
+  nanosec: 284661866
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=337.6ms samples=1435 anomalies=9 frame=2064 src_age=361.4ms points=61606/1829 imu=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412000
+  nanosec: 831959824
+level: 30
+name: body_lattice_planner
+msg: Expired cached goal after 30.069 s; retention limit is 30.000 s and a new goal is required
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: expireGoalIfNeeded
+line: 369
+---
+stamp:
+  sec: 1786412000
+  nanosec: 832304644
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: cached goal exceeded its retention timeout'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 456
+---
+stamp:
+  sec: 1786412010
+  nanosec: 161290420
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.2ms samples=1457 anomalies=1 frame=0 src_age=250.2ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412015
+  nanosec: 168990412
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=511.6ms samples=1392 anomalies=137 frame=0 src_age=511.6ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412023
+  nanosec: 381069978
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=odom_publish max=288.3ms samples=671 anomalies=1 frame=2684 src_age=114.6ms points=61634/1802 imu=8 que...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412023
+  nanosec: 444650349
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.010 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786412028
+  nanosec: 382413435
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=480.3ms samples=1454 anomalies=239 frame=0 src_age=480.3ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412033
+  nanosec: 383873558
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=453.2ms samples=1391 anomalies=30 frame=0 src_age=453.2ms points=0/0 imu=0 que...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412038
+  nanosec: 385360521
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=461.8ms samples=1593 anomalies=130 frame=0 src_age=461.8ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412049
+  nanosec: 256301820
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.4ms samples=256 anomalies=1 frame=0 src_age=250.4ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412054
+  nanosec: 272024811
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=438.8ms samples=1433 anomalies=230 frame=2958 src_age=438.8ms points=61632/185...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412130
+  nanosec: 248863539
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=253.0ms samples=301 anomalies=1 frame=0 src_age=253.0ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412135
+  nanosec: 249131812
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=406.6ms samples=1408 anomalies=102 frame=0 src_age=406.6ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412210
+  nanosec: 158226972
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=270.8ms samples=1336 anomalies=1 frame=0 src_age=270.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786412315
+  nanosec: 464822008
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=259.9ms samples=37 anomalies=1 frame=0 src_age=259.9ms points=0/0 imu=0 queue=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
