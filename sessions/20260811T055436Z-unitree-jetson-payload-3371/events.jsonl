@@ -1,0 +1,18 @@
+{"timestamp":"2026-08-11T05:54:36.847519+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-11T05:55:15.568051+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T05:56:06.757656+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=3688;3705)"}
+{"timestamp":"2026-08-11T05:56:06.876255+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=3794;3802)"}
+{"timestamp":"2026-08-11T05:56:07.004399+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=3888)"}
+{"timestamp":"2026-08-11T05:56:07.120919+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=4218)"}
+{"timestamp":"2026-08-11T05:56:07.238258+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=4224)"}
+{"timestamp":"2026-08-11T05:56:07.353387+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=4233)"}
+{"timestamp":"2026-08-11T05:56:07.462743+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_bridge started (pids=4543)"}
+{"timestamp":"2026-08-11T05:57:07.429234+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-11T05:57:50.780360+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-11T05:57:50.874685+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-11T05:57:50.975158+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
+{"timestamp":"2026-08-11T05:57:51.066343+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-11T05:57:51.159603+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-11T05:57:51.255758+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-11T05:57:51.359406+00:00","level":"warning","category":"lifecycle","message":"go2_sdk2_bridge stopped"}
+{"timestamp":"2026-08-11T05:58:24.265466+00:00","level":"info","category":"collector","message":"collector stopped"}
