@@ -1,0 +1,7 @@
+captured_at=2026-08-04T07:55:49Z
+repository=/home/unitree/catkin_ws
+sha=8146b318755644ab1c6e188159850e0aae4227aa
+branch=ROS2
+worktree_status:
+ M src/Super-LIO/src/super_lio/config/hesai.yaml
+?? CMakeFiles/
