@@ -1,0 +1,7 @@
+captured_at=2026-08-10T08:29:59Z
+Linux unitree-jetson-payload 5.15.148-tegra #1 SMP PREEMPT Mon Jun 16 08:24:48 PDT 2025 aarch64 aarch64 aarch64 GNU/Linux
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.5 LTS
+Release:	22.04
+Codename:	jammy
