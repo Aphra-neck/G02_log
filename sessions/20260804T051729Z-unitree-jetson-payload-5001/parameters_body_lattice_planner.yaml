@@ -1,0 +1,30 @@
+/body_lattice_planner:
+  ros__parameters:
+    goal_topic: /goal_pose
+    height_cost_weight: 2.0
+    lateral_cost_factor: 1.25
+    max_expansions: 250000
+    max_slope: 0.65
+    max_step_height: 0.24
+    min_traversability: 0.18
+    motion_step: 0.2
+    nominal_body_height: 0.42
+    odom_topic: /lio/odom
+    path_topic: body_path
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    reverse_cost_factor: 1.15
+    slope_cost_weight: 1.5
+    snap_radius: 0.5
+    stair_height_threshold: 0.08
+    terrain_cost_weight: 4.0
+    terrain_map_topic: terrain_map
+    use_sim_time: false
+    yaw_bins: 16
+    yaw_change_cost: 0.15
+

@@ -1,0 +1,7 @@
+pid=5076
+boot_id=94fc9870-80c6-4dca-99c0-a1ddc3081621
+start_ticks=39792
+pgid=5076
+session_dir=/home/unitree/go2_logs/sessions/20260804T051729Z-unitree-jetson-payload-5001
+collector_pid=5066
+captured_at=2026-08-04T05:17:29Z

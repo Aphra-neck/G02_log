@@ -1,0 +1,19 @@
+{"timestamp":"2026-08-04T05:17:29.861664+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-04T05:18:18.529267+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=5155;5161)"}
+{"timestamp":"2026-08-04T05:18:18.630146+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=5244;5247)"}
+{"timestamp":"2026-08-04T05:18:18.734921+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=5280)"}
+{"timestamp":"2026-08-04T05:20:10.676550+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=6212)"}
+{"timestamp":"2026-08-04T05:20:10.896792+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=6214)"}
+{"timestamp":"2026-08-04T05:21:54.705078+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_bridge started (pids=6857)"}
+{"timestamp":"2026-08-04T05:29:47.518945+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-04T05:29:47.635834+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-04T05:29:47.741821+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
+{"timestamp":"2026-08-04T05:29:47.834973+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-04T05:29:47.943002+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-04T05:29:48.037486+00:00","level":"warning","category":"lifecycle","message":"go2_sdk2_bridge stopped"}
+{"timestamp":"2026-08-04T05:40:03.554668+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=14472;14475)"}
+{"timestamp":"2026-08-04T05:40:03.655846+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=14515;14525)"}
+{"timestamp":"2026-08-04T05:40:03.748137+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=14560)"}
+{"timestamp":"2026-08-04T05:48:02.610952+00:00","level":"warning","category":"lifecycle","message":"hesai_lidar stopped"}
+{"timestamp":"2026-08-04T05:48:02.721467+00:00","level":"warning","category":"lifecycle","message":"go2_imu_bridge stopped"}
+{"timestamp":"2026-08-04T05:48:02.842838+00:00","level":"warning","category":"lifecycle","message":"super_lio stopped"}
