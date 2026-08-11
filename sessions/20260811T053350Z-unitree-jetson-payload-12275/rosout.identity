@@ -1,0 +1,8 @@
+pid=12354
+boot_id=681088df-ede1-482d-9389-0263747da15f
+start_ticks=145261
+pgid=12354
+session_dir=/home/unitree/go2_logs/sessions/20260811T053350Z-unitree-jetson-payload-12275
+writer=rosout
+collector_pid=12344
+captured_at=2026-08-11T05:33:50Z
