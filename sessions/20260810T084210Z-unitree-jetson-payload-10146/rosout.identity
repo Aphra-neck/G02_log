@@ -1,0 +1,8 @@
+pid=10225
+boot_id=13133d13-13ca-459b-bda3-cf1055f107fd
+start_ticks=102890
+pgid=10225
+session_dir=/home/unitree/go2_logs/sessions/20260810T084210Z-unitree-jetson-payload-10146
+writer=rosout
+collector_pid=10215
+captured_at=2026-08-10T08:42:11Z
