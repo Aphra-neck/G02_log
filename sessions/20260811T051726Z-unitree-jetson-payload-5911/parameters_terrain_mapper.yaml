@@ -1,0 +1,63 @@
+/terrain_mapper:
+  ros__parameters:
+    body_frame: base_link
+    body_yaw_offset: -1.5707963267948966
+    cloud_stale_warning_age: 1.0
+    cloud_topic: /lio/cloud_world
+    confidence_frames: 8.0
+    confidence_rebuild:
+      start_radius: 0.55
+    flat_ground_confirmed: true
+    flat_obstacle:
+      clear_confirmation_frames: 2
+      clear_confirmation_window: 0.35
+      hit_confirmation_frames: 2
+      hit_confirmation_window: 0.35
+      lidar_offset:
+        x: 0.171
+        y: 0.0
+        z: 0.0908
+      max_height: 0.8
+      max_odom_age: 0.5
+      min_height: 0.08
+      nominal_body_height: 0.34
+      obstacle_clearance: 0.1
+      strong_hit_points: 3
+      visualization:
+        max_points: 5000
+        voxel_size: 0.3
+      voxel_height: 0.1
+    height_bin_resolution: 0.015
+    integration_window: 1.5
+    map_frame: world
+    max_range: 12.0
+    max_roughness: 0.08
+    max_slope: 0.65
+    max_step_height: 0.24
+    max_z_relative: 1.5
+    min_observed_frames: 4
+    min_points_per_cell: 1
+    min_range: 0.35
+    min_z_relative: -1.5
+    obstacle_height: 0.18
+    odom_topic: /lio/body_odom
+    origin_x: -20.0
+    origin_y: -20.0
+    planning_mode: flat_obstacle
+    publish_rate: 2.0
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    resolution: 0.2
+    self_filter:
+      height: 0.7
+      length: 0.9
+      width: 0.55
+    size_x: 40.0
+    size_y: 40.0
+    use_sim_time: false
+
