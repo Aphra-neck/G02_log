@@ -1,0 +1,430 @@
+stamp:
+  sec: 1786410961
+  nanosec: 362396798
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=250.1ms samples=125 anomalies=1 frame=0 src_age=-1.0ms points=0/0 imu=0 queue=0/...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786410966
+  nanosec: 362565369
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=1852.2ms samples=2198 anomalies=796 frame=0 src_age=-1.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786410983
+  nanosec: 530802806
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=334.5ms samples=901 anomalies=1 frame=204 src_age=350.5ms points=60420/1788 imu=4 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786410988
+  nanosec: 531490401
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=334.3ms samples=2053 anomalies=3 frame=234 src_age=355.3ms points=60414/1792 imu=3...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411004
+  nanosec: 535306509
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=342.9ms samples=425 anomalies=1 frame=414 src_age=358.2ms points=60400/1797 imu=4 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411009
+  nanosec: 536371210
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=278.7ms samples=2062 anomalies=1 frame=415 src_age=278.7ms points=60425/1798 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411054
+  nanosec: 121904355
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411057
+  nanosec: 126462528
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411060
+  nanosec: 129733188
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411063
+  nanosec: 627590293
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411067
+  nanosec: 130782804
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411068
+  nanosec: 220148406
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=257.2ms samples=823 anomalies=1 frame=0 src_age=257.2ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411070
+  nanosec: 630282480
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411074
+  nanosec: 126934462
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411077
+  nanosec: 129383820
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411080
+  nanosec: 629860911
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411083
+  nanosec: 530355378
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=267.0ms samples=54 anomalies=1 frame=0 src_age=267.0ms points=0/0 imu=0 queue=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411083
+  nanosec: 820533597
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411083
+  nanosec: 958462275
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.037 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786411084
+  nanosec: 5861858
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.521 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 175
+---
+stamp:
+  sec: 1786411084
+  nanosec: 6379541
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.521 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 439
+---
+stamp:
+  sec: 1786411084
+  nanosec: 138234331
+level: 30
+name: body_lattice_planner
+msg: Expired cached goal after 30.016 s; retention limit is 30.000 s and a new goal is required
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: expireGoalIfNeeded
+line: 369
+---
+stamp:
+  sec: 1786411088
+  nanosec: 533837200
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=461.9ms samples=1205 anomalies=101 frame=0 src_age=461.9ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411089
+  nanosec: 749660445
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.043 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 283
+---
+stamp:
+  sec: 1786411089
+  nanosec: 818250752
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.505 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 175
+---
+stamp:
+  sec: 1786411089
+  nanosec: 818673679
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.506 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 439
+---
+stamp:
+  sec: 1786411093
+  nanosec: 535485932
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=414.8ms samples=1227 anomalies=113 frame=1265 src_age=414.8ms points=60423/179...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411100
+  nanosec: 222510970
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=259.4ms samples=509 anomalies=1 frame=0 src_age=259.4ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411154
+  nanosec: 521561404
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_imu_behind max=251.9ms samples=1811 anomalies=1 frame=0 src_age=158.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411159
+  nanosec: 406107919
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 207
+---
+stamp:
+  sec: 1786411159
+  nanosec: 522134953
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=336.8ms samples=1852 anomalies=6 frame=1914 src_age=367.1ms points=60411/1812 imu=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411159
+  nanosec: 551223778
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 322
+---
+stamp:
+  sec: 1786411164
+  nanosec: 536059385
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=283.9ms samples=1178 anomalies=1 frame=0 src_age=283.9ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786411173
+  nanosec: 171404983
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411176
+  nanosec: 555008215
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411179
+  nanosec: 555603428
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411183
+  nanosec: 54329475
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411186
+  nanosec: 555168324
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411190
+  nanosec: 54728204
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411193
+  nanosec: 55581700
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411196
+  nanosec: 554986168
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411199
+  nanosec: 555108280
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---
+stamp:
+  sec: 1786411202
+  nanosec: 555647392
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed)
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 314
+---

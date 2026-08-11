@@ -1,0 +1,8 @@
+pid=6180
+boot_id=6ec17b4c-120f-4ffc-a8ce-a157d6b992fb
+start_ticks=124746
+pgid=6180
+session_dir=/home/unitree/go2_logs/sessions/20260811T011554Z-unitree-jetson-payload-6099
+writer=rosout
+collector_pid=6170
+captured_at=2026-08-11T01:15:55Z
