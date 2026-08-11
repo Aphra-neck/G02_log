@@ -1,0 +1,14 @@
+timestamp,topic,average_hz,status
+2026-08-11T05:15:06Z,/lio/odom,,no_data
+2026-08-11T05:15:06Z,/lio/body_odom,,no_data
+2026-08-11T05:15:46Z,/imu/data,,no_data
+2026-08-11T05:15:50Z,/lio/odom,10.002,ok
+2026-08-11T05:15:54Z,/lio/body_odom,10.000,ok
+2026-08-11T05:15:59Z,/body_path,,no_data
+2026-08-11T05:16:03Z,/terrain_costmap,,no_data
+2026-08-11T05:16:07Z,/sdk2_command,,no_data
+2026-08-11T05:16:33Z,/lio/odom,,no_data
+2026-08-11T05:16:33Z,/lio/body_odom,10.002964,ok
+2026-08-11T05:16:33Z,/imu/data,,no_data
+2026-08-11T05:16:37Z,/lio/odom,,no_data
+2026-08-11T05:16:41Z,/lio/body_odom,,no_data

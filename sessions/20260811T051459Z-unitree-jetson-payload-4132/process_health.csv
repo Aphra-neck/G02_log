@@ -1,0 +1,17 @@
+timestamp,component,running,pids,states,cpu_percent_interval,rss_kib,threads,metrics_status
+2026-08-11T05:15:00Z,hesai_lidar,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,go2_imu_bridge,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,super_lio,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,body_odom_adapter,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,terrain_mapper,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,body_lattice_planner,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,go2_sdk2_bridge,0,,,,0,0,stopped
+2026-08-11T05:15:00Z,go2_rl_controller,0,,,,0,0,stopped
+2026-08-11T05:16:26Z,hesai_lidar,1,4450;4467,4450:S;4467:S,,220568,18,baseline
+2026-08-11T05:16:26Z,go2_imu_bridge,1,4533;4536,4533:S;4536:S,,122928,21,baseline
+2026-08-11T05:16:26Z,super_lio,1,4576,4576:S,,146984,15,baseline
+2026-08-11T05:16:26Z,body_odom_adapter,1,4817,4817:S,,88628,12,baseline
+2026-08-11T05:16:26Z,terrain_mapper,0,,,,0,0,stopped
+2026-08-11T05:16:26Z,body_lattice_planner,0,,,,0,0,stopped
+2026-08-11T05:16:26Z,go2_sdk2_bridge,0,,,,0,0,stopped
+2026-08-11T05:16:26Z,go2_rl_controller,0,,,,0,0,stopped

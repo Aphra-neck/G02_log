@@ -1,0 +1,7 @@
+{"timestamp":"2026-08-11T05:15:00.243035+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-11T05:15:38.128356+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-11T05:16:26.521411+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=4450;4467)"}
+{"timestamp":"2026-08-11T05:16:26.630500+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=4533;4536)"}
+{"timestamp":"2026-08-11T05:16:26.732093+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=4576)"}
+{"timestamp":"2026-08-11T05:16:26.833976+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=4817)"}
+{"timestamp":"2026-08-11T05:16:46.585038+00:00","level":"info","category":"collector","message":"collector stopped"}

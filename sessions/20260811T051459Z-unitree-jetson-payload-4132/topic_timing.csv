@@ -1,0 +1,5 @@
+window_end,window_duration_sec,topic,status,message_count,first_receive_ns,last_receive_ns,first_header_ns,last_header_ns,latest_header_age_ms,header_span_ms,first_local_sequence,last_local_sequence,unique_header_count,duplicate_header_count,nonmonotonic_header_count,invalid_header_count,min_header_gap_ms,max_header_gap_ms,max_receive_gap_ms
+2026-08-11T05:15:06Z,5.000846,/lio/odom,no_data,0,,,,,,,,,0,0,0,0,,,
+2026-08-11T05:15:06Z,5.000846,/lio/body_odom,no_data,0,,,,,,,,,0,0,0,0,,,
+2026-08-11T05:16:33Z,5.000722,/lio/odom,ok,1,1786425390669352800,1786425390669352800,1786425390625886917,1786425390625886917,2392.239056,0.000000,1,1,1,0,0,0,,,
+2026-08-11T05:16:33Z,5.000722,/lio/body_odom,ok,27,1786425388071745071,1786425390670976344,1786425388042366027,1786425390625886917,2392.239056,2583.520890,1,27,27,0,0,0,85.675478,105.581998,111.497570
