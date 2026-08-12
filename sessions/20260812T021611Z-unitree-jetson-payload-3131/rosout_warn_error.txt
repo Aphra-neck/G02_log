@@ -1,0 +1,3770 @@
+stamp:
+  sec: 1786500997
+  nanosec: 308407654
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786500997
+  nanosec: 422429696
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=254.0ms samples=1574 anomalies=1 frame=0 src_age=254.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786500997
+  nanosec: 518330974
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=259, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786500997
+  nanosec: 626915299
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786500997
+  nanosec: 627104905
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786500997
+  nanosec: 628401876
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786500998
+  nanosec: 364435005
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786500998
+  nanosec: 364627907
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501002
+  nanosec: 422875776
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=255.8ms samples=1902 anomalies=1 frame=0 src_age=255.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501004
+  nanosec: 690007865
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501015
+  nanosec: 429550476
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501022
+  nanosec: 485876748
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501023
+  nanosec: 119467984
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.7ms samples=297 anomalies=1 frame=0 src_age=250.7ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501028
+  nanosec: 119597662
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=383.6ms samples=1980 anomalies=104 frame=0 src_age=383.6ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501033
+  nanosec: 689608657
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501034
+  nanosec: 719774466
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.6ms samples=595 anomalies=1 frame=0 src_age=250.6ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501039
+  nanosec: 719943839
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=424.4ms samples=1794 anomalies=7 frame=514 src_age=424.4ms points=62002/2217 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501040
+  nanosec: 403853256
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501040
+  nanosec: 781040180
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.514 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501040
+  nanosec: 782606009
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501040
+  nanosec: 782796605
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501040
+  nanosec: 782947553
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501040
+  nanosec: 784560038
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501040
+  nanosec: 821469317
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=255, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501041
+  nanosec: 96445267
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501041
+  nanosec: 98350175
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501041
+  nanosec: 396543574
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501041
+  nanosec: 396780699
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501041
+  nanosec: 692526233
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501041
+  nanosec: 692767614
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501041
+  nanosec: 996405396
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501041
+  nanosec: 996680570
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501042
+  nanosec: 287996307
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501042
+  nanosec: 288201336
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501042
+  nanosec: 585527260
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501042
+  nanosec: 585693919
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501042
+  nanosec: 901467662
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501042
+  nanosec: 901629778
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501043
+  nanosec: 193285439
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501043
+  nanosec: 193501540
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501043
+  nanosec: 721135687
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501043
+  nanosec: 721293290
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501043
+  nanosec: 864363500
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=253, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501043
+  nanosec: 865375396
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.032 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501043
+  nanosec: 993734162
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501044
+  nanosec: 719980914
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=439.5ms samples=1920 anomalies=38 frame=602 src_age=439.5ms points=61998/2225 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501049
+  nanosec: 720093400
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=409.3ms samples=1926 anomalies=114 frame=618 src_age=409.3ms points=61997/2211...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501050
+  nanosec: 506166191
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501055
+  nanosec: 36489829
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501060
+  nanosec: 622555482
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501061
+  nanosec: 203829043
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 1.037 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501061
+  nanosec: 206716338
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501061
+  nanosec: 206865909
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501061
+  nanosec: 206973047
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501061
+  nanosec: 212162888
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501061
+  nanosec: 242093137
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=256, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501061
+  nanosec: 461679374
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=293.2ms samples=626 anomalies=1 frame=0 src_age=293.2ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501061
+  nanosec: 507131816
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501061
+  nanosec: 507333132
+level: 30
+name: terrain_mapper
+msg: Dropped 4 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501061
+  nanosec: 722906577
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501061
+  nanosec: 723043060
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501063
+  nanosec: 690007944
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501066
+  nanosec: 462455127
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=289.9ms samples=1842 anomalies=2 frame=781 src_age=289.9ms points=62011/2208 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501068
+  nanosec: 713397223
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501072
+  nanosec: 559063443
+level: 30
+name: terrain_mapper
+msg: 'Terrain source cloud timing is invalid: classification=accepted_cloud_callbacks_stopped, header_age=1.394 s, receive_gap=1.370 s...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 767
+---
+stamp:
+  sec: 1786501072
+  nanosec: 559896228
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501072
+  nanosec: 560048104
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501072
+  nanosec: 572453358
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=256, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501077
+  nanosec: 379046295
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501077
+  nanosec: 422233186
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.557 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501077
+  nanosec: 521192832
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=253.2ms samples=378 anomalies=1 frame=0 src_age=253.2ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501077
+  nanosec: 648161066
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501077
+  nanosec: 650294423
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501077
+  nanosec: 651721557
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501077
+  nanosec: 684694793
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=256, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501080
+  nanosec: 550240441
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501081
+  nanosec: 139696661
+level: 30
+name: go2_sdk2_bridge
+msg: Go2 SDK2 bridge on interface 'enP8p1s0'; motion is disabled and can only be enabled via ~/enable_motion
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: Go2Sdk2BridgeNode
+line: 111
+---
+stamp:
+  sec: 1786501082
+  nanosec: 522843145
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=395.1ms samples=1748 anomalies=116 frame=0 src_age=395.1ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501082
+  nanosec: 91561964
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.524 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501083
+  nanosec: 26504041
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501083
+  nanosec: 26755086
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501083
+  nanosec: 26894993
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501083
+  nanosec: 27770404
+level: 30
+name: terrain_mapper
+msg: 'Freezing flat obstacle layer for stale cloud: header_age=1.061 s, threshold=1.000 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 407
+---
+stamp:
+  sec: 1786501083
+  nanosec: 29898384
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501083
+  nanosec: 64634339
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=253, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501083
+  nanosec: 295900080
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501083
+  nanosec: 296140821
+level: 30
+name: terrain_mapper
+msg: Dropped 4 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501083
+  nanosec: 596308413
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501083
+  nanosec: 596541698
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501083
+  nanosec: 598177924
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501083
+  nanosec: 891671424
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501083
+  nanosec: 891900901
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501084
+  nanosec: 194872962
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501084
+  nanosec: 199456801
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501084
+  nanosec: 501696267
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501084
+  nanosec: 501919472
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501084
+  nanosec: 791291951
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501084
+  nanosec: 791488115
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501085
+  nanosec: 97286725
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501085
+  nanosec: 97535402
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501085
+  nanosec: 391437439
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501085
+  nanosec: 393321510
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501085
+  nanosec: 669479051
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501085
+  nanosec: 669714224
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501087
+  nanosec: 908561142
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501088
+  nanosec: 487560449
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 1.024 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501088
+  nanosec: 488523317
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501088
+  nanosec: 488625879
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501088
+  nanosec: 488705880
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501088
+  nanosec: 492909263
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501088
+  nanosec: 534739313
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=253, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501088
+  nanosec: 797518796
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501088
+  nanosec: 797759665
+level: 30
+name: terrain_mapper
+msg: Dropped 5 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501089
+  nanosec: 94958738
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501089
+  nanosec: 95212120
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501089
+  nanosec: 420902529
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501089
+  nanosec: 421813940
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501093
+  nanosec: 457037494
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501095
+  nanosec: 729109027
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_imu_behind max=252.0ms samples=1238 anomalies=1 frame=0 src_age=161.2ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501095
+  nanosec: 768439755
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501096
+  nanosec: 179742278
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.013 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 450
+---
+stamp:
+  sec: 1786501096
+  nanosec: 180386099
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: flat-obstacle planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 467
+---
+stamp:
+  sec: 1786501095
+  nanosec: 895572254
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.531 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501096
+  nanosec: 185376090
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501096
+  nanosec: 185388986
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501096
+  nanosec: 185597502
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501096
+  nanosec: 186932634
+level: 30
+name: go2_sdk2_bridge
+msg: Body path cleared while motion is disarmed
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: pathCallback
+line: 192
+---
+stamp:
+  sec: 1786501096
+  nanosec: 222661591
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=258, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501096
+  nanosec: 495451060
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501096
+  nanosec: 495936318
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501096
+  nanosec: 497205848
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501096
+  nanosec: 798540574
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501096
+  nanosec: 798837253
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501097
+  nanosec: 90470723
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501097
+  nanosec: 90716040
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501097
+  nanosec: 388206362
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501097
+  nanosec: 388372253
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501097
+  nanosec: 686134069
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501097
+  nanosec: 686283641
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501097
+  nanosec: 721853778
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501097
+  nanosec: 993402192
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501097
+  nanosec: 993611573
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501098
+  nanosec: 297669321
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501098
+  nanosec: 298502586
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501098
+  nanosec: 596697909
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501098
+  nanosec: 596911418
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501098
+  nanosec: 897904943
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501098
+  nanosec: 898084914
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501100
+  nanosec: 729252011
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=334.9ms samples=1853 anomalies=3 frame=1122 src_age=364.7ms points=62008/2222 imu=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501116
+  nanosec: 99467249
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501133
+  nanosec: 627248686
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_imu_behind max=251.8ms samples=1139 anomalies=1 frame=0 src_age=157.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501133
+  nanosec: 709354840
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501133
+  nanosec: 736898417
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.042 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501138
+  nanosec: 627551207
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=336.2ms samples=1971 anomalies=15 frame=1501 src_age=398.1ms points=62026/2137 imu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501139
+  nanosec: 725675190
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501139
+  nanosec: 751899307
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.054 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501139
+  nanosec: 810686259
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501141
+  nanosec: 741727442
+level: 40
+name: body_lattice_planner
+msg: Rejected goal with age 2.164 s; accepted range is [-0.200, 2.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 450
+---
+stamp:
+  sec: 1786501143
+  nanosec: 627827543
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=410.2ms samples=1992 anomalies=23 frame=1561 src_age=410.2ms points=62007/2101...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501147
+  nanosec: 584067202
+level: 40
+name: body_lattice_planner
+msg: Rejected goal with age 2.672 s; accepted range is [-0.200, 2.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 450
+---
+stamp:
+  sec: 1786501156
+  nanosec: 221020894
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501165
+  nanosec: 738610812
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501165
+  nanosec: 766275519
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=259, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501165
+  nanosec: 767419409
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501173
+  nanosec: 558014307
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501178
+  nanosec: 627495765
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_imu_behind max=250.3ms samples=1990 anomalies=1 frame=0 src_age=157.3ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501178
+  nanosec: 704836870
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501178
+  nanosec: 741734538
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.048 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501179
+  nanosec: 934879216
+level: 40
+name: body_lattice_planner
+msg: Rejected goal with age 2.407 s; accepted range is [-0.200, 2.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 450
+---
+stamp:
+  sec: 1786501181
+  nanosec: 832479719
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501183
+  nanosec: 627630545
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=335.1ms samples=1890 anomalies=18 frame=1951 src_age=395.2ms points=62018/2127 imu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501185
+  nanosec: 426070406
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501188
+  nanosec: 627821607
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=379.6ms samples=1920 anomalies=112 frame=0 src_age=379.6ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501191
+  nanosec: 661458060
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501205
+  nanosec: 120413526
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.3ms samples=633 anomalies=1 frame=0 src_age=250.3ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501209
+  nanosec: 155762099
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501210
+  nanosec: 120569589
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=746.9ms samples=1580 anomalies=251 frame=2218 src_age=841.4ms points=62035/2148 im...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501210
+  nanosec: 457588344
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501210
+  nanosec: 651547347
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 1.186 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 450
+---
+stamp:
+  sec: 1786501210
+  nanosec: 457468756
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501211
+  nanosec: 252783969
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501211
+  nanosec: 725204033
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501211
+  nanosec: 725410887
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501211
+  nanosec: 725512363
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501211
+  nanosec: 726189953
+level: 30
+name: terrain_mapper
+msg: 'Freezing flat obstacle layer for stale cloud: header_age=1.758 s, threshold=1.000 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 407
+---
+stamp:
+  sec: 1786501211
+  nanosec: 931537145
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=259, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501212
+  nanosec: 493132431
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501212
+  nanosec: 493380599
+level: 30
+name: terrain_mapper
+msg: Dropped 8 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501212
+  nanosec: 495792676
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501213
+  nanosec: 794638330
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501213
+  nanosec: 794735933
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501213
+  nanosec: 794855745
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501213
+  nanosec: 795842977
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.530 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501215
+  nanosec: 27109893
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501215
+  nanosec: 27307372
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501215
+  nanosec: 27503890
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501215
+  nanosec: 130385422
+level: 40
+name: body_lattice_planner
+msg: Rejected body odometry with age 0.765 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 450
+---
+stamp:
+  sec: 1786501215
+  nanosec: 157237417
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=263, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501215
+  nanosec: 291916638
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501215
+  nanosec: 292136709
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501215
+  nanosec: 588910621
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501215
+  nanosec: 589080642
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501215
+  nanosec: 596658389
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501215
+  nanosec: 896118242
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501215
+  nanosec: 896310280
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501216
+  nanosec: 197142481
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501216
+  nanosec: 197368984
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501216
+  nanosec: 494173270
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501216
+  nanosec: 494472448
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501216
+  nanosec: 792610377
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501216
+  nanosec: 792824303
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501216
+  nanosec: 937824642
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501217
+  nanosec: 98449055
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501217
+  nanosec: 100368540
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501217
+  nanosec: 398504940
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501217
+  nanosec: 400612239
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501217
+  nanosec: 688532089
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501217
+  nanosec: 688839875
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501217
+  nanosec: 992781035
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501217
+  nanosec: 992975282
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501218
+  nanosec: 299334126
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501218
+  nanosec: 299778589
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501218
+  nanosec: 334756755
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=256, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501219
+  nanosec: 997736179
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501225
+  nanosec: 305596426
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501232
+  nanosec: 609052631
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501236
+  nanosec: 401006254
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501236
+  nanosec: 271136452
+level: 30
+name: go2_sdk2_bridge
+msg: Go2 SDK2 bridge on interface 'enP8p1s0'; motion is disabled and can only be enabled via ~/enable_motion
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: Go2Sdk2BridgeNode
+line: 111
+---
+stamp:
+  sec: 1786501242
+  nanosec: 497956538
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501246
+  nanosec: 906851659
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501252
+  nanosec: 907095386
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501259
+  nanosec: 40696997
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501262
+  nanosec: 850741924
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501266
+  nanosec: 9385141
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501270
+  nanosec: 505796400
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501273
+  nanosec: 413466462
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=ground_fit_failed reason=ground_fit_rmse_above_limit, ground_candidates=266, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501273
+  nanosec: 441253141
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: flat-obstacle map epoch was invalidated'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 467
+---
+stamp:
+  sec: 1786501273
+  nanosec: 441413850
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501273
+  nanosec: 443405589
+level: 30
+name: go2_sdk2_bridge
+msg: Body path cleared while motion is disarmed
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: pathCallback
+line: 192
+---
+stamp:
+  sec: 1786501274
+  nanosec: 468360593
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501274
+  nanosec: 743071001
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.773 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 338
+---
+stamp:
+  sec: 1786501274
+  nanosec: 744888975
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501274
+  nanosec: 745039155
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501275
+  nanosec: 97577179
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501275
+  nanosec: 99912768
+level: 30
+name: terrain_mapper
+msg: Dropped 2 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501275
+  nanosec: 395040545
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501275
+  nanosec: 395261127
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501275
+  nanosec: 439027159
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501275
+  nanosec: 699068361
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501275
+  nanosec: 699265263
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501275
+  nanosec: 999296545
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501275
+  nanosec: 999480294
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501276
+  nanosec: 295042640
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501276
+  nanosec: 295245270
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501276
+  nanosec: 423505801
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=278, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501276
+  nanosec: 591413490
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501276
+  nanosec: 591473652
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501276
+  nanosec: 591616184
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501276
+  nanosec: 902976949
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501276
+  nanosec: 903216444
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501277
+  nanosec: 198141008
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501277
+  nanosec: 198294325
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501277
+  nanosec: 502589213
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501277
+  nanosec: 502792419
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501277
+  nanosec: 507571025
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501277
+  nanosec: 800831315
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501277
+  nanosec: 801084826
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501278
+  nanosec: 97647452
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501278
+  nanosec: 97846306
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501278
+  nanosec: 399595740
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501278
+  nanosec: 399868836
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501278
+  nanosec: 439127468
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501278
+  nanosec: 700665857
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501278
+  nanosec: 700919912
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501279
+  nanosec: 335276679
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501279
+  nanosec: 335463533
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501279
+  nanosec: 335697620
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=odom_publish max=306.4ms samples=1420 anomalies=1 frame=2957 src_age=108.5ms points=62222/2080 imu=15 q...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501279
+  nanosec: 449619803
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=276, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501279
+  nanosec: 462662364
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501279
+  nanosec: 468646541
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.035 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501279
+  nanosec: 591766532
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501279
+  nanosec: 593293585
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501279
+  nanosec: 593489782
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501279
+  nanosec: 895705018
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501279
+  nanosec: 895924064
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501280
+  nanosec: 201031895
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501280
+  nanosec: 207071402
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501280
+  nanosec: 511199618
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501280
+  nanosec: 512164799
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501280
+  nanosec: 513996405
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501280
+  nanosec: 789925964
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501280
+  nanosec: 790074769
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501281
+  nanosec: 92882465
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501281
+  nanosec: 93073639
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501281
+  nanosec: 397029911
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501281
+  nanosec: 400091665
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501281
+  nanosec: 439247445
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 739
+---
+stamp:
+  sec: 1786501281
+  nanosec: 694497447
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501281
+  nanosec: 694659180
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501281
+  nanosec: 991649550
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501281
+  nanosec: 991852884
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501282
+  nanosec: 329571430
+level: 30
+name: terrain_mapper
+msg: Reset flat obstacle layer; waiting for a new exact-stamp cloud/odom pair
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: invalidateFlatEpoch
+line: 704
+---
+stamp:
+  sec: 1786501282
+  nanosec: 329736779
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; invalidated the map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 661
+---
+stamp:
+  sec: 1786501284
+  nanosec: 336891948
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=487.6ms samples=1796 anomalies=6 frame=0 src_age=487.6ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501285
+  nanosec: 799767254
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=ground_fit_failed reason=ground_fit_rmse_above_limit, ground_candidates=276, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501285
+  nanosec: 940336552
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501289
+  nanosec: 313028327
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501289
+  nanosec: 399211186
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=ground_fit_failed reason=ground_fit_rmse_above_limit, ground_candidates=270, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501289
+  nanosec: 440050725
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501292
+  nanosec: 674247701
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501296
+  nanosec: 121186244
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.1ms samples=748 anomalies=1 frame=0 src_age=251.1ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501296
+  nanosec: 187402623
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501296
+  nanosec: 201824583
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.026 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501299
+  nanosec: 297424399
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501301
+  nanosec: 121352826
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=391.3ms samples=1872 anomalies=18 frame=3126 src_age=391.3ms points=62237/2104...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501308
+  nanosec: 602956763
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501356
+  nanosec: 124772723
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.5ms samples=1985 anomalies=1 frame=0 src_age=251.5ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501361
+  nanosec: 125489331
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=339.5ms samples=1940 anomalies=17 frame=3726 src_age=391.7ms points=62273/2105 imu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501379
+  nanosec: 727464548
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.6ms samples=1517 anomalies=1 frame=0 src_age=251.6ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501384
+  nanosec: 727872170
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=292.3ms samples=2027 anomalies=2 frame=0 src_age=292.3ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501495
+  nanosec: 438239897
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=273, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501496
+  nanosec: 419959
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501500
+  nanosec: 120095451
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.9ms samples=146 anomalies=1 frame=0 src_age=251.9ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501500
+  nanosec: 422365879
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501505
+  nanosec: 120118662
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=432.3ms samples=1968 anomalies=118 frame=0 src_age=432.3ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501508
+  nanosec: 405353236
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501512
+  nanosec: 998884129
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501518
+  nanosec: 97490307
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501521
+  nanosec: 700814987
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501525
+  nanosec: 296511881
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501525
+  nanosec: 518490336
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.6ms samples=157 anomalies=1 frame=0 src_age=250.6ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501525
+  nanosec: 849465771
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501525
+  nanosec: 885824743
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.056 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501525
+  nanosec: 949477737
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=272, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501528
+  nanosec: 702830424
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501530
+  nanosec: 518601926
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=460.5ms samples=1839 anomalies=143 frame=0 src_age=460.5ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501533
+  nanosec: 215459022
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501550
+  nanosec: 800222971
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501551
+  nanosec: 119609780
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.4ms samples=235 anomalies=1 frame=0 src_age=251.4ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501556
+  nanosec: 121873844
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_delivery_gap max=397.4ms samples=1980 anomalies=128 frame=5678 src_age=414.6ms points=62268/2105 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501573
+  nanosec: 692247828
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501575
+  nanosec: 122045705
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.7ms samples=1603 anomalies=1 frame=0 src_age=251.7ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501578
+  nanosec: 209172905
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501578
+  nanosec: 223309685
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.025 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501580
+  nanosec: 122445805
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=428.5ms samples=1961 anomalies=144 frame=0 src_age=428.5ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501581
+  nanosec: 693967338
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501586
+  nanosec: 100315892
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501598
+  nanosec: 197752522
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501599
+  nanosec: 129989794
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_imu_behind max=251.2ms samples=1644 anomalies=1 frame=0 src_age=158.2ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501599
+  nanosec: 189689768
+level: 40
+name: go2_sdk2_bridge
+msg: 'Rejected nonmonotonic odometry timestamp: delta 0.000000 s'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: odomCallback
+line: 290
+---
+stamp:
+  sec: 1786501599
+  nanosec: 200775127
+level: 30
+name: terrain_mapper
+msg: 'Rejected nonmonotonic terrain source cloud timestamp: source_delta=0.000 s, receive_gap=0.020 s'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 472
+---
+stamp:
+  sec: 1786501601
+  nanosec: 996982669
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501604
+  nanosec: 130304694
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=396.3ms samples=1913 anomalies=16 frame=6156 src_age=396.3ms points=62260/2107...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1786501608
+  nanosec: 904928508
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501612
+  nanosec: 815617483
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501622
+  nanosec: 196632685
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501631
+  nanosec: 405288108
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501649
+  nanosec: 802455671
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501657
+  nanosec: 317148308
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=ground_fit_failed reason=ground_fit_rmse_above_limit, ground_candidates=271, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501657
+  nanosec: 368338194
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501659
+  nanosec: 402854967
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501669
+  nanosec: 403531932
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501679
+  nanosec: 824499430
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501693
+  nanosec: 316644830
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=ground_fit_failed reason=ground_fit_rmse_above_limit, ground_candidates=272, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501693
+  nanosec: 370295745
+level: 40
+name: body_lattice_planner
+msg: Rejected malformed terrain map
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: mapCallback
+line: 192
+---
+stamp:
+  sec: 1786501695
+  nanosec: 701162673
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501699
+  nanosec: 100830724
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501725
+  nanosec: 407411674
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501729
+  nanosec: 407669834
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501733
+  nanosec: 391739392
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501737
+  nanosec: 201216835
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501742
+  nanosec: 199485049
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501747
+  nanosec: 498212906
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501750
+  nanosec: 7763705
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=ground_fit_failed reason=ground_fit_rmse_above_limit, ground_candidates=271, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 563
+---
+stamp:
+  sec: 1786501751
+  nanosec: 299820850
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501754
+  nanosec: 792088737
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
+stamp:
+  sec: 1786501759
+  nanosec: 697400846
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 417
+---
