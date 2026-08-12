@@ -1,0 +1,4 @@
+timestamp,monotonic_ns,load1,load5,load15,mem_available_kib,swap_free_kib,thermal_max_millic,thermal_zone,status
+2026-08-12T06:18:19Z,336830000000,0.42,0.80,0.43,14006704,8015680,48281,tj-thermal,ok
+2026-08-12T06:19:48Z,426990000000,2.99,1.54,0.73,13031384,8015680,49906,soc1-thermal,ok
+2026-08-12T06:20:36Z,474770000000,2.14,1.52,0.76,12929236,8015680,50500,tj-thermal,ok
