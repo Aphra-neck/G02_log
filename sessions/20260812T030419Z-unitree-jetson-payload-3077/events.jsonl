@@ -1,0 +1,9 @@
+{"timestamp":"2026-08-12T03:04:20.068546+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-12T03:04:57.941172+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T03:05:50.242944+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=3407;3409;3416)"}
+{"timestamp":"2026-08-12T03:05:50.380564+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=3475;3477;3481)"}
+{"timestamp":"2026-08-12T03:05:50.488803+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=3528)"}
+{"timestamp":"2026-08-12T03:08:52.858402+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T03:12:37.707842+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T03:16:22.608150+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T03:19:23.341092+00:00","level":"info","category":"collector","message":"collector stopped"}
