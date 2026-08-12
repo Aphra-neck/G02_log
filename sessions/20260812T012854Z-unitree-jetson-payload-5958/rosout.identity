@@ -1,0 +1,8 @@
+pid=6038
+boot_id=92a134a0-9021-4768-875a-8bd0a988d908
+start_ticks=107301
+pgid=6038
+session_dir=/home/unitree/go2_logs/sessions/20260812T012854Z-unitree-jetson-payload-5958
+writer=rosout
+collector_pid=6028
+captured_at=2026-08-12T01:28:54Z

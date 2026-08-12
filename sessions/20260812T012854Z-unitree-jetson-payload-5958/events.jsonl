@@ -1,0 +1,17 @@
+{"timestamp":"2026-08-12T01:28:54.771803+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-12T01:29:32.929152+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T01:30:24.268660+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=6282;6284;6299)"}
+{"timestamp":"2026-08-12T01:30:24.424334+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=6360;6362;6366)"}
+{"timestamp":"2026-08-12T01:30:24.545081+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=6403)"}
+{"timestamp":"2026-08-12T01:30:24.667564+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=6588)"}
+{"timestamp":"2026-08-12T01:30:24.775430+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=6596)"}
+{"timestamp":"2026-08-12T01:30:24.901509+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=6602)"}
+{"timestamp":"2026-08-12T01:33:35.066775+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T01:36:13.410500+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-12T01:36:58.794234+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_bridge started (pids=12269)"}
+{"timestamp":"2026-08-12T01:37:40.921741+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-12T01:38:24.816916+00:00","level":"warning","category":"lifecycle","message":"body_odom_adapter stopped"}
+{"timestamp":"2026-08-12T01:38:24.913319+00:00","level":"warning","category":"lifecycle","message":"terrain_mapper stopped"}
+{"timestamp":"2026-08-12T01:38:25.011166+00:00","level":"warning","category":"lifecycle","message":"body_lattice_planner stopped"}
+{"timestamp":"2026-08-12T01:38:25.109850+00:00","level":"warning","category":"lifecycle","message":"go2_sdk2_bridge stopped"}
+{"timestamp":"2026-08-12T01:39:43.902354+00:00","level":"info","category":"collector","message":"collector stopped"}

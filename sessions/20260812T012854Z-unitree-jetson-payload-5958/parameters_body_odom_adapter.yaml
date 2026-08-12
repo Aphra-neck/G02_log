@@ -1,0 +1,16 @@
+/body_odom_adapter:
+  ros__parameters:
+    body_frame: base_link
+    input_odom_topic: /lio/odom
+    output_odom_topic: /lio/body_odom
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    use_sim_time: false
+    world_frame: world
+    yaw_offset: -1.5707963267948966
+
