@@ -1,0 +1,11 @@
+/home/unitree/catkin_ws/tools/go2-log: line 1677: warning: command substitution: ignored null byte in input
+Traceback (most recent call last):
+  File "/home/unitree/catkin_ws/tools/sample_topic_timing.py", line 307, in <module>
+    raise SystemExit(main())
+  File "/home/unitree/catkin_ws/tools/sample_topic_timing.py", line 292, in main
+    timing_rows, rate_rows = capture(args.duration)
+  File "/home/unitree/catkin_ws/tools/sample_topic_timing.py", line 249, in capture
+    node.create_subscription(Odometry, topic, callback(topic), qos)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/node.py", line 1376, in create_subscription
+    subscription_object = _rclpy.Subscription(
+rclpy._rclpy_pybind11.RCLError: Failed to create subscription: rcl node's context is invalid, at ./src/rcl/node.c:428
