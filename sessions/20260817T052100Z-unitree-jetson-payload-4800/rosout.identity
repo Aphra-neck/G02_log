@@ -1,0 +1,8 @@
+pid=4880
+boot_id=20a49818-0f58-41a0-88c1-43d20c1dae08
+start_ticks=36634
+pgid=4880
+session_dir=/home/unitree/go2_logs/sessions/20260817T052100Z-unitree-jetson-payload-4800
+writer=rosout
+collector_pid=4870
+captured_at=2026-08-17T05:21:00Z

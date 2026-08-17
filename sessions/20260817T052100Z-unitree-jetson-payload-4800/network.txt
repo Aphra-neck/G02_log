@@ -1,0 +1,24 @@
+captured_at=2026-08-17T05:21:00Z
+
+[addresses]
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+can0             DOWN           
+enP8p1s0         UP             192.168.123.18/24 fe80::27ca:50a5:3131:d7b3/64 
+l4tbr0           DOWN           
+usb0             DOWN           
+usb1             DOWN           
+wlx6c1ff7881257  UP             192.168.151.213/24 fe80::471e:4116:b360:f59f/64 
+
+[routes]
+default via 192.168.151.1 dev wlx6c1ff7881257 proto static metric 600 
+169.254.0.0/16 dev wlx6c1ff7881257 scope link metric 1000 
+192.168.123.0/24 dev enP8p1s0 proto kernel scope link src 192.168.123.18 metric 100 
+192.168.151.0/24 dev wlx6c1ff7881257 proto kernel scope link src 192.168.151.213 metric 600 
+
+[neighbors]
+192.168.151.1 dev wlx6c1ff7881257 lladdr 60:cf:84:2a:69:e0 REACHABLE
+192.168.151.143 dev wlx6c1ff7881257  FAILED
+192.168.151.145 dev wlx6c1ff7881257 lladdr e0:d0:45:46:9f:ce REACHABLE
+192.168.123.161 dev enP8p1s0 lladdr 7e:1d:75:60:f5:89 REACHABLE
+192.168.123.20 dev enP8p1s0 lladdr ec:9f:0d:01:da:78 REACHABLE
+192.168.151.168 dev wlx6c1ff7881257 lladdr 1c:69:7a:bd:25:64 REACHABLE
