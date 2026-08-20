@@ -1,0 +1,810 @@
+stamp:
+  sec: 1787196426
+  nanosec: 665180677
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=250.4ms samples=119 anomalies=1 frame=0 src_age=-1.0ms points=0/0 imu=0 queue=0/...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196431
+  nanosec: 665978661
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=1875.7ms samples=2132 anomalies=804 frame=0 src_age=-1.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196444
+  nanosec: 806413829
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_delivery_gap max=334.3ms samples=1110 anomalies=1 frame=0 src_age=160.5ms points=0/0 imu=0 queue=3/...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196445
+  nanosec: 287144351
+level: 30
+name: terrain_mapper
+msg: Waiting for odometry
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 429
+---
+stamp:
+  sec: 1787196447
+  nanosec: 441411394
+level: 40
+name: rviz2
+msg: "Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : \nac..."
+file: ./src/main.cpp
+function: operator()
+line: 68
+---
+stamp:
+  sec: 1787196449
+  nanosec: 806876634
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=474.0ms samples=1231 anomalies=129 frame=204 src_age=474.0ms points=63267/2327...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196465
+  nanosec: 150142959
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=253.8ms samples=8 anomalies=1 frame=0 src_age=253.8ms points=0/0 imu=0 queue=0...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196470
+  nanosec: 151792348
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=303.4ms samples=1023 anomalies=3 frame=0 src_age=303.4ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196475
+  nanosec: 171671293
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=290.7ms samples=755 anomalies=4 frame=0 src_age=290.7ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196480
+  nanosec: 177355258
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=279.6ms samples=830 anomalies=4 frame=0 src_age=279.6ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196485
+  nanosec: 184475862
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=285.9ms samples=927 anomalies=3 frame=0 src_age=285.9ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196490
+  nanosec: 216782284
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_executor_backlog max=512.0ms samples=727 anomalies=35 frame=576 src_age=583.8ms points=63241/2304 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196493
+  nanosec: 849237244
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1433, observation_ready_cells=1366, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196495
+  nanosec: 217244259
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_executor_backlog max=375.8ms samples=724 anomalies=22 frame=630 src_age=435.5ms points=63240/2209 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196497
+  nanosec: 361752859
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1477, observation_ready_cells=1380, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196497
+  nanosec: 654279636
+level: 30
+name: go2_sdk2_direct_bridge
+msg: Direct Go2 SDK2 bridge is disabled; it uses /goal_pose and /lio/body_odom, ignores /body_path, and does not perform obstacle avo...
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/simple_goal_executor_node.cpp
+function: SimpleGoalExecutorNode
+line: 102
+---
+stamp:
+  sec: 1787196500
+  nanosec: 852486873
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1454, observation_ready_cells=1390, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196503
+  nanosec: 860678581
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1404, observation_ready_cells=1351, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196507
+  nanosec: 358338073
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1410, observation_ready_cells=1358, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196510
+  nanosec: 359789365
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1401, observation_ready_cells=1354, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196513
+  nanosec: 362377173
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1383, observation_ready_cells=1342, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196516
+  nanosec: 368398918
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1400, observation_ready_cells=1359, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196519
+  nanosec: 903006149
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1404, observation_ready_cells=1364, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196523
+  nanosec: 363253005
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1400, observation_ready_cells=1348, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196526
+  nanosec: 364283087
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1383, observation_ready_cells=1331, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196529
+  nanosec: 425159297
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1393, observation_ready_cells=1348, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196529
+  nanosec: 816325139
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 36.558 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 452
+---
+stamp:
+  sec: 1787196532
+  nanosec: 409362282
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 4448 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196532
+  nanosec: 410060097
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 469
+---
+stamp:
+  sec: 1787196533
+  nanosec: 366443342
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 469
+---
+stamp:
+  sec: 1787196535
+  nanosec: 374017224
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=2409, observation_ready_cells=1510, start_observation_ready_cells=1, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196535
+  nanosec: 826635648
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 1.049 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 452
+---
+stamp:
+  sec: 1787196535
+  nanosec: 834366958
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning inputs stopped or became stale'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 469
+---
+stamp:
+  sec: 1787196536
+  nanosec: 386689707
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196536
+  nanosec: 387474145
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 469
+---
+stamp:
+  sec: 1787196537
+  nanosec: 158928259
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=275.7ms samples=334 anomalies=1 frame=0 src_age=275.7ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196539
+  nanosec: 871195370
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed) reason=goal_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196543
+  nanosec: 385686358
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed) reason=goal_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196546
+  nanosec: 868343243
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed) reason=goal_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196550
+  nanosec: 380444514
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196553
+  nanosec: 398890343
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 32 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196554
+  nanosec: 630609959
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.0ms samples=549 anomalies=1 frame=0 src_age=250.0ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196556
+  nanosec: 866608235
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196559
+  nanosec: 640066100
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=474.1ms samples=1317 anomalies=123 frame=0 src_age=474.1ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196560
+  nanosec: 376829690
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196563
+  nanosec: 861423929
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 16 state expansions (start=not_needed) reason=search_exhausted
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196566
+  nanosec: 862346565
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled) reason=start_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196569
+  nanosec: 891479234
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled) reason=start_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196573
+  nanosec: 361200680
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=not_needed) reason=goal_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196575
+  nanosec: 48069771
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=272.2ms samples=54 anomalies=1 frame=0 src_age=272.2ms points=0/0 imu=0 queue=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196576
+  nanosec: 437558750
+level: 40
+name: body_lattice_planner
+msg: Planning failed after 0 state expansions (start=disabled) reason=start_terrain_unavailable
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: requestPlan
+line: 325
+---
+stamp:
+  sec: 1787196578
+  nanosec: 939967798
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: planning failed'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 469
+---
+stamp:
+  sec: 1787196579
+  nanosec: 373748299
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=2416, observation_ready_cells=1746, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196580
+  nanosec: 625276747
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.9ms samples=94 anomalies=1 frame=0 src_age=251.9ms points=0/0 imu=0 queue=...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196582
+  nanosec: 856672718
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1649, observation_ready_cells=1409, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196585
+  nanosec: 625522012
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=388.3ms samples=1234 anomalies=59 frame=1537 src_age=388.3ms points=63184/2190...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196585
+  nanosec: 857850510
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1442, observation_ready_cells=1333, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196588
+  nanosec: 872992491
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1504, observation_ready_cells=1360, start_observation_ready_cells=1, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196592
+  nanosec: 383116079
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1453, observation_ready_cells=1353, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196595
+  nanosec: 854987332
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1406, observation_ready_cells=1321, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196598
+  nanosec: 858620871
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1405, observation_ready_cells=1327, start_observation_ready_cells=2, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196599
+  nanosec: 631012432
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.3ms samples=1200 anomalies=1 frame=0 src_age=250.3ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196602
+  nanosec: 357290097
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1399, observation_ready_cells=1299, start_observation_ready_cells=1, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196602
+  nanosec: 418846451
+level: 30
+name: body_lattice_planner
+msg: Expired cached goal after 30.017 s; retention limit is 30.000 s and a new goal is required
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: expireGoalIfNeeded
+line: 382
+---
+stamp:
+  sec: 1787196602
+  nanosec: 558596509
+level: 40
+name: body_lattice_planner
+msg: Rejected terrain map with age 23.786 s; accepted range is [-0.200, 1.000] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: stampFresh
+line: 452
+---
+stamp:
+  sec: 1787196604
+  nanosec: 662937934
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=484.1ms samples=1286 anomalies=118 frame=0 src_age=484.1ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196605
+  nanosec: 365243695
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1354, observation_ready_cells=1284, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196608
+  nanosec: 862611037
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1331, observation_ready_cells=1271, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196612
+  nanosec: 363074708
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1360, observation_ready_cells=1281, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196615
+  nanosec: 369237015
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1362, observation_ready_cells=1288, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196618
+  nanosec: 377547564
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1338, observation_ready_cells=1276, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196621
+  nanosec: 870334039
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1353, observation_ready_cells=1292, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196625
+  nanosec: 376550203
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1356, observation_ready_cells=1297, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196626
+  nanosec: 642634343
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=257.4ms samples=554 anomalies=1 frame=0 src_age=257.4ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196628
+  nanosec: 869078203
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1377, observation_ready_cells=1299, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196631
+  nanosec: 643109896
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=466.3ms samples=1300 anomalies=121 frame=0 src_age=466.3ms points=0/0 imu=0 qu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787196631
+  nanosec: 870256697
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1378, observation_ready_cells=1303, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196632
+  nanosec: 633224688
+level: 30
+name: body_lattice_planner
+msg: Expired cached goal after 30.075 s; retention limit is 30.000 s and a new goal is required
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: expireGoalIfNeeded
+line: 382
+---
+stamp:
+  sec: 1787196634
+  nanosec: 871636562
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=1553, observation_ready_cells=1294, start_observation_ready_cells=1, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196637
+  nanosec: 873417070
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=2561, observation_ready_cells=1797, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---
+stamp:
+  sec: 1787196641
+  nanosec: 405838105
+level: 30
+name: terrain_mapper
+msg: 'Suppressing confidence-rebuild terrain map: observed_cells=2513, observation_ready_cells=1691, start_observation_ready_cells=0, ...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 844
+---

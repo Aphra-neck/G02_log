@@ -1,0 +1,13 @@
+{"timestamp":"2026-08-20T03:27:00.346663+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-20T03:27:39.502026+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-20T03:28:35.997956+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=3523;3525;3540)"}
+{"timestamp":"2026-08-20T03:28:36.265423+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=3599;3601;3605)"}
+{"timestamp":"2026-08-20T03:28:36.553671+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=3644)"}
+{"timestamp":"2026-08-20T03:28:36.855823+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=3941)"}
+{"timestamp":"2026-08-20T03:28:37.163423+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=3947)"}
+{"timestamp":"2026-08-20T03:28:37.378306+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=3949)"}
+{"timestamp":"2026-08-20T03:28:37.674402+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_direct_bridge started (pids=4627)"}
+{"timestamp":"2026-08-20T03:28:46.263309+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-20T03:29:40.035328+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-20T03:31:23.204117+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-20T03:31:49.232768+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
