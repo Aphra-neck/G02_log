@@ -1,0 +1,8 @@
+pid=9516
+boot_id=8a7921d8-eb0c-49f7-a162-31e4ac34984c
+start_ticks=279126
+pgid=9516
+session_dir=/home/unitree/go2_logs/sessions/20260820T060318Z-unitree-jetson-payload-9436
+writer=rosout
+collector_pid=9506
+captured_at=2026-08-20T06:03:19Z
