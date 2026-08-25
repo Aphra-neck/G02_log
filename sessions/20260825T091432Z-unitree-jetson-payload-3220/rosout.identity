@@ -1,0 +1,8 @@
+pid=3293
+boot_id=1deec501-ce6b-4f3a-accb-14234412765a
+start_ticks=15021
+pgid=3293
+session_dir=/home/unitree/go2_logs/sessions/20260825T091432Z-unitree-jetson-payload-3220
+writer=rosout
+collector_pid=3283
+captured_at=2026-08-25T09:14:33Z
