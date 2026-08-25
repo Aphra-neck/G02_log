@@ -1,0 +1,220 @@
+{
+  "active_command_samples": 437,
+  "capture_invalidated": null,
+  "capture_limit": null,
+  "config": {
+    "command_gap_sec": 0.25,
+    "command_linear_min": 0.03,
+    "command_yaw_min": 0.08,
+    "odom_gap_sec": 0.5,
+    "odom_linear_min": 0.04,
+    "odom_yaw_min": 0.05,
+    "remote_axis_min": 0.08,
+    "remote_gap_sec": 0.25,
+    "response_max_age_sec": 0.55,
+    "sport_gap_sec": 0.25,
+    "sport_linear_min": 0.04,
+    "sport_yaw_min": 0.05,
+    "stall_min_sec": 0.75,
+    "wake_sustain_sec": 0.75,
+    "wake_window_sec": 2.0,
+    "yaw_evidence_min_rad": 0.05,
+    "yaw_opposite_fraction": 0.7
+  },
+  "reader_exit": 0,
+  "remote": {
+    "nudge_count": 4,
+    "nudges": [
+      {
+        "duration_sec": 0.076396418,
+        "end_mono_ns": 231301552826,
+        "forward_axis": false,
+        "peak_axis": "rx",
+        "peak_value": 0.918628097,
+        "start_mono_ns": 231225156408
+      },
+      {
+        "duration_sec": 0.198353279,
+        "end_mono_ns": 232980330274,
+        "forward_axis": true,
+        "peak_axis": "ly",
+        "peak_value": 0.946681142,
+        "start_mono_ns": 232781976995
+      },
+      {
+        "duration_sec": 0.136316959,
+        "end_mono_ns": 235279617784,
+        "forward_axis": false,
+        "peak_axis": "lx",
+        "peak_value": 0.989709496,
+        "start_mono_ns": 235143300825
+      },
+      {
+        "duration_sec": 0.817956652,
+        "end_mono_ns": 237079553523,
+        "forward_axis": true,
+        "peak_axis": "ly",
+        "peak_value": 0.838955343,
+        "start_mono_ns": 236261596871
+      }
+    ],
+    "wake_status": "not_observed",
+    "wakes": []
+  },
+  "required_streams_complete": true,
+  "schema": 1,
+  "stall": {
+    "combined_episodes": [
+      {
+        "command_samples": 24,
+        "duration_sec": 1.149493873,
+        "end_mono_ns": 218125399382,
+        "start_mono_ns": 216975905509
+      },
+      {
+        "command_samples": 126,
+        "duration_sec": 6.251197965,
+        "end_mono_ns": 224528430905,
+        "start_mono_ns": 218277232940
+      },
+      {
+        "command_samples": 117,
+        "duration_sec": 5.803623228,
+        "end_mono_ns": 231279510548,
+        "start_mono_ns": 225475887320
+      },
+      {
+        "command_samples": 26,
+        "duration_sec": 1.279232535,
+        "end_mono_ns": 233155058139,
+        "start_mono_ns": 231875825604
+      }
+    ],
+    "episodes": [
+      {
+        "command_samples": 24,
+        "duration_sec": 1.149493873,
+        "end_mono_ns": 218125399382,
+        "start_mono_ns": 216975905509
+      },
+      {
+        "command_samples": 126,
+        "duration_sec": 6.251197965,
+        "end_mono_ns": 224528430905,
+        "start_mono_ns": 218277232940
+      },
+      {
+        "command_samples": 122,
+        "duration_sec": 6.048263113,
+        "end_mono_ns": 231524150433,
+        "start_mono_ns": 225475887320
+      },
+      {
+        "command_samples": 26,
+        "duration_sec": 1.279232535,
+        "end_mono_ns": 233155058139,
+        "start_mono_ns": 231875825604
+      }
+    ],
+    "odom_episodes": [
+      {
+        "command_samples": 24,
+        "duration_sec": 1.149493873,
+        "end_mono_ns": 218125399382,
+        "start_mono_ns": 216975905509
+      },
+      {
+        "command_samples": 126,
+        "duration_sec": 6.251197965,
+        "end_mono_ns": 224528430905,
+        "start_mono_ns": 218277232940
+      },
+      {
+        "command_samples": 122,
+        "duration_sec": 6.048263113,
+        "end_mono_ns": 231524150433,
+        "start_mono_ns": 225475887320
+      },
+      {
+        "command_samples": 26,
+        "duration_sec": 1.279232535,
+        "end_mono_ns": 233155058139,
+        "start_mono_ns": 231875825604
+      }
+    ],
+    "sport_episodes": [
+      {
+        "command_samples": 305,
+        "duration_sec": 15.204224666,
+        "end_mono_ns": 231279510548,
+        "start_mono_ns": 216075285882
+      },
+      {
+        "command_samples": 32,
+        "duration_sec": 1.580364021,
+        "end_mono_ns": 233155058139,
+        "start_mono_ns": 231574694118
+      },
+      {
+        "command_samples": 29,
+        "duration_sec": 1.34952973,
+        "end_mono_ns": 234632796142,
+        "start_mono_ns": 233283266412
+      }
+    ],
+    "status": "observed"
+  },
+  "streams": {
+    "command": {
+      "count": 513,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 128.803915,
+      "gap_median_ms": 49.935134000000005,
+      "gap_p95_ms": 64.677914,
+      "rate_hz": 20.002132646916145,
+      "status": "ok"
+    },
+    "odom": {
+      "count": 451,
+      "gap_limit_ms": 500.0,
+      "gap_max_ms": 207.572081,
+      "gap_median_ms": 97.8268585,
+      "gap_p95_ms": 152.517129,
+      "rate_hz": 10.031458722097653,
+      "status": "ok"
+    },
+    "remote": {
+      "count": 19961,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 36.569731,
+      "gap_median_ms": 1.9978639999999999,
+      "gap_p95_ms": 5.108569,
+      "rate_hz": 443.5949068498846,
+      "status": "ok"
+    },
+    "sport": {
+      "count": 12590,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 32.502098,
+      "gap_median_ms": 3.351572,
+      "gap_p95_ms": 6.528459,
+      "rate_hz": 279.84952103346006,
+      "status": "ok"
+    }
+  },
+  "yaw_sign": {
+    "odom": {
+      "aligned_evidence": 0.0,
+      "opposite_evidence": 0.0,
+      "opposite_fraction": null,
+      "status": "insufficient_response"
+    },
+    "sport": {
+      "aligned_evidence": 0.0,
+      "opposite_evidence": 0.0,
+      "opposite_fraction": null,
+      "status": "insufficient_response"
+    },
+    "status": "insufficient_response"
+  }
+}
