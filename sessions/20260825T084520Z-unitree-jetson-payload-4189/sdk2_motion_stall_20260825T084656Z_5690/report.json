@@ -1,0 +1,130 @@
+{
+  "active_command_samples": 27,
+  "capture_invalidated": null,
+  "capture_limit": null,
+  "config": {
+    "command_gap_sec": 0.25,
+    "command_linear_min": 0.03,
+    "command_yaw_min": 0.08,
+    "odom_gap_sec": 0.5,
+    "odom_linear_min": 0.04,
+    "odom_yaw_min": 0.05,
+    "remote_axis_min": 0.08,
+    "remote_gap_sec": 0.25,
+    "response_max_age_sec": 0.55,
+    "sport_gap_sec": 0.25,
+    "sport_linear_min": 0.04,
+    "sport_yaw_min": 0.05,
+    "stall_min_sec": 0.75,
+    "wake_sustain_sec": 0.75,
+    "wake_window_sec": 2.0,
+    "yaw_evidence_min_rad": 0.05,
+    "yaw_opposite_fraction": 0.7
+  },
+  "planning": {
+    "goal_count": 4,
+    "goal_generations_ns": [
+      1787647685444476764,
+      1787647696758038091,
+      1787647707965870254,
+      1787647710391985873
+    ],
+    "path_count": 16,
+    "path_goal_generations_ns": [
+      1787647685444476764,
+      1787647696758038091,
+      1787647707965870254,
+      1787647710391985873
+    ],
+    "path_pose_count_max": 20,
+    "path_pose_count_min": 0,
+    "path_sequences": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "status": "path_observed"
+  },
+  "reader_exit": 0,
+  "remote": {
+    "nudge_count": 0,
+    "nudges": [],
+    "wake_status": "no_remote_nudge",
+    "wakes": []
+  },
+  "required_streams_complete": true,
+  "schema": 1,
+  "stall": {
+    "combined_episodes": [],
+    "episodes": [],
+    "odom_episodes": [],
+    "sport_episodes": [],
+    "status": "not_observed"
+  },
+  "streams": {
+    "command": {
+      "count": 101,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 83.3266,
+      "gap_median_ms": 50.024869,
+      "gap_p95_ms": 66.419785,
+      "rate_hz": 19.913896437961597,
+      "status": "ok"
+    },
+    "odom": {
+      "count": 449,
+      "gap_limit_ms": 500.0,
+      "gap_max_ms": 345.64251,
+      "gap_median_ms": 98.2375635,
+      "gap_p95_ms": 155.959159,
+      "rate_hz": 9.98957345383867,
+      "status": "ok"
+    },
+    "remote": {
+      "count": 19752,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 59.586858,
+      "gap_median_ms": 1.989357,
+      "gap_p95_ms": 5.416748,
+      "rate_hz": 438.9691192414008,
+      "status": "ok"
+    },
+    "sport": {
+      "count": 12434,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 30.398559,
+      "gap_median_ms": 3.35168,
+      "gap_p95_ms": 6.889407,
+      "rate_hz": 276.3070314418993,
+      "status": "ok"
+    }
+  },
+  "yaw_sign": {
+    "odom": {
+      "aligned_evidence": 0.0,
+      "opposite_evidence": 0.0,
+      "opposite_fraction": null,
+      "status": "insufficient_response"
+    },
+    "sport": {
+      "aligned_evidence": 0.0,
+      "opposite_evidence": 0.0,
+      "opposite_fraction": null,
+      "status": "insufficient_response"
+    },
+    "status": "insufficient_response"
+  }
+}
