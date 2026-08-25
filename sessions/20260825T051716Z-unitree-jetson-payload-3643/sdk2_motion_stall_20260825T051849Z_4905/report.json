@@ -1,0 +1,93 @@
+{
+  "active_command_samples": 0,
+  "capture_invalidated": null,
+  "capture_limit": null,
+  "config": {
+    "command_gap_sec": 0.25,
+    "command_linear_min": 0.03,
+    "command_yaw_min": 0.08,
+    "odom_gap_sec": 0.5,
+    "odom_linear_min": 0.04,
+    "odom_yaw_min": 0.05,
+    "remote_axis_min": 0.08,
+    "remote_gap_sec": 0.25,
+    "response_max_age_sec": 0.55,
+    "sport_gap_sec": 0.25,
+    "sport_linear_min": 0.04,
+    "sport_yaw_min": 0.05,
+    "stall_min_sec": 0.75,
+    "wake_sustain_sec": 0.75,
+    "wake_window_sec": 2.0,
+    "yaw_evidence_min_rad": 0.05,
+    "yaw_opposite_fraction": 0.7
+  },
+  "reader_exit": 0,
+  "remote": {
+    "nudge_count": 0,
+    "nudges": [],
+    "wake_status": "no_remote_nudge",
+    "wakes": []
+  },
+  "required_streams_complete": true,
+  "schema": 1,
+  "stall": {
+    "combined_episodes": [],
+    "episodes": [],
+    "odom_episodes": [],
+    "sport_episodes": [],
+    "status": "insufficient_active_command"
+  },
+  "streams": {
+    "command": {
+      "count": 900,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 146.877842,
+      "gap_median_ms": 49.980451,
+      "gap_p95_ms": 57.674625,
+      "rate_hz": 19.99693411454862,
+      "status": "ok"
+    },
+    "odom": {
+      "count": 449,
+      "gap_limit_ms": 500.0,
+      "gap_max_ms": 227.739922,
+      "gap_median_ms": 100.2376785,
+      "gap_p95_ms": 148.712044,
+      "rate_hz": 9.998433700724917,
+      "status": "ok"
+    },
+    "remote": {
+      "count": 20141,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 55.740165,
+      "gap_median_ms": 1.9966065,
+      "gap_p95_ms": 4.987015,
+      "rate_hz": 447.5145353588783,
+      "status": "ok"
+    },
+    "sport": {
+      "count": 12652,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 33.180698,
+      "gap_median_ms": 3.354812,
+      "gap_p95_ms": 6.333147,
+      "rate_hz": 281.00429528046044,
+      "status": "ok"
+    }
+  },
+  "yaw_sign": {
+    "odom": {
+      "aligned_evidence": 0.0,
+      "opposite_evidence": 0.0,
+      "opposite_fraction": null,
+      "status": "insufficient_response"
+    },
+    "sport": {
+      "aligned_evidence": 0.0,
+      "opposite_evidence": 0.0,
+      "opposite_fraction": null,
+      "status": "insufficient_response"
+    },
+    "status": "insufficient_response"
+  }
+}

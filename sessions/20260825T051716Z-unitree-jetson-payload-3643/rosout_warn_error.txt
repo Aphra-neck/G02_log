@@ -1,0 +1,1760 @@
+stamp:
+  sec: 1787635044
+  nanosec: 729591210
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=252.0ms samples=122 anomalies=1 frame=0 src_age=-1.0ms points=0/0 imu=0 queue=0/...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635049
+  nanosec: 730636754
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=sync_wait_no_lidar max=1030.7ms samples=2123 anomalies=380 frame=0 src_age=-1.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635063
+  nanosec: 500387177
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=252.1ms samples=1506 anomalies=1 frame=0 src_age=252.1ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635068
+  nanosec: 500749569
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_delivery_gap max=393.1ms samples=2014 anomalies=124 frame=180 src_age=400.5ms points=61986/1850 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635071
+  nanosec: 309611304
+level: 30
+name: terrain_mapper
+msg: Terrain map has not received an accepted world-frame point cloud
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: publishMap
+line: 748
+---
+stamp:
+  sec: 1787635071
+  nanosec: 716459780
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635071
+  nanosec: 902491873
+level: 30
+name: terrain_mapper
+msg: Dropped oldest unmatched flat obstacle cloud because the bounded queue is full
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: queueFlatCloud
+line: 636
+---
+stamp:
+  sec: 1787635071
+  nanosec: 910414509
+level: 30
+name: terrain_mapper
+msg: Rejected flat-ground lock odometry with age 0.968 s; accepted range is [-0.200, 0.500] s
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: odomCallback
+line: 349
+---
+stamp:
+  sec: 1787635071
+  nanosec: 953689636
+level: 30
+name: terrain_mapper
+msg: 'Flat obstacle layer is fail-closed: status=warming_up reason=waiting_for_distinct_source_frames, ground_candidates=279, ground_i...'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: processCloud
+line: 574
+---
+stamp:
+  sec: 1787635072
+  nanosec: 25916421
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; kept the last validated map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 670
+---
+stamp:
+  sec: 1787635076
+  nanosec: 346864253
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635079
+  nanosec: 987925748
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635086
+  nanosec: 494715576
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635091
+  nanosec: 104150514
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635094
+  nanosec: 255491498
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635097
+  nanosec: 983837867
+level: 30
+name: go2_sdk2_bridge
+msg: Go2 SDK2 bridge on interface 'enP8p1s0'; motion is disabled and can only be enabled via ~/enable_motion
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: Go2Sdk2BridgeNode
+line: 163
+---
+stamp:
+  sec: 1787635098
+  nanosec: 352917785
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635101
+  nanosec: 662867187
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635104
+  nanosec: 955550935
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635107
+  nanosec: 987904377
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635111
+  nanosec: 156490124
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635114
+  nanosec: 211866189
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635115
+  nanosec: 317627270
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=289.9ms samples=306 anomalies=1 frame=0 src_age=289.9ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635122
+  nanosec: 266726203
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635125
+  nanosec: 844112266
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635129
+  nanosec: 376004038
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635133
+  nanosec: 281350417
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635136
+  nanosec: 84984580
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=261.3ms samples=123 anomalies=1 frame=0 src_age=261.3ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635136
+  nanosec: 466150807
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635139
+  nanosec: 979007690
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635143
+  nanosec: 77265008
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=255.5ms samples=434 anomalies=1 frame=0 src_age=255.5ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635143
+  nanosec: 455651343
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635146
+  nanosec: 907932197
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635148
+  nanosec: 109740641
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=288.3ms samples=994 anomalies=2 frame=0 src_age=288.3ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635150
+  nanosec: 72735803
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635153
+  nanosec: 119327059
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=293.9ms samples=741 anomalies=7 frame=0 src_age=293.9ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635153
+  nanosec: 248809653
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635157
+  nanosec: 469307574
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635158
+  nanosec: 119752791
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=256.1ms samples=1161 anomalies=1 frame=0 src_age=256.1ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635161
+  nanosec: 115351257
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635165
+  nanosec: 978718198
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635169
+  nanosec: 670429198
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.3ms samples=206 anomalies=1 frame=0 src_age=250.3ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635169
+  nanosec: 809790384
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635173
+  nanosec: 557346421
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635174
+  nanosec: 671849530
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=286.0ms samples=1068 anomalies=5 frame=1240 src_age=286.0ms points=61978/1856 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635177
+  nanosec: 703007969
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635181
+  nanosec: 48674512
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635186
+  nanosec: 158348247
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635189
+  nanosec: 371352625
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635193
+  nanosec: 759160846
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635198
+  nanosec: 876027018
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635202
+  nanosec: 126548528
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635205
+  nanosec: 435898740
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635209
+  nanosec: 973276880
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635214
+  nanosec: 490298907
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635218
+  nanosec: 273559560
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635221
+  nanosec: 456835279
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635225
+  nanosec: 683258322
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635226
+  nanosec: 693083351
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=270.2ms samples=342 anomalies=1 frame=0 src_age=270.2ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635229
+  nanosec: 364025530
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635232
+  nanosec: 756209094
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635237
+  nanosec: 255112321
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635241
+  nanosec: 687964086
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=263.7ms samples=1329 anomalies=1 frame=0 src_age=263.7ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635241
+  nanosec: 822146606
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635246
+  nanosec: 380794376
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635246
+  nanosec: 693242692
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_delivery_gap max=418.1ms samples=1065 anomalies=129 frame=1975 src_age=426.0ms points=61960/1852 ...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635250
+  nanosec: 160293402
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635252
+  nanosec: 515215715
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=288.8ms samples=172 anomalies=1 frame=0 src_age=288.8ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635254
+  nanosec: 3746857
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635257
+  nanosec: 516905842
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=307.4ms samples=945 anomalies=6 frame=2071 src_age=307.4ms points=61956/1826 i...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635257
+  nanosec: 993249808
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635261
+  nanosec: 684995405
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635262
+  nanosec: 517614443
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=278.6ms samples=988 anomalies=3 frame=0 src_age=278.6ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635266
+  nanosec: 414658288
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635267
+  nanosec: 518282514
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=imu_executor_backlog max=330.5ms samples=1024 anomalies=9 frame=0 src_age=163.4ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635269
+  nanosec: 901474350
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635275
+  nanosec: 813753659
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635279
+  nanosec: 275035930
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635281
+  nanosec: 405306350
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=269.7ms samples=830 anomalies=1 frame=0 src_age=269.7ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635283
+  nanosec: 1074793
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635286
+  nanosec: 177891789
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635289
+  nanosec: 356750549
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635294
+  nanosec: 170155051
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635298
+  nanosec: 322221982
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=291.0ms samples=361 anomalies=1 frame=0 src_age=291.0ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635298
+  nanosec: 511242364
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635299
+  nanosec: 597224986
+level: 40
+name: go2_sdk2_bridge
+msg: Stopped because bounded monotonic path progress could not be confirmed
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: controlTickImpl
+line: 605
+---
+stamp:
+  sec: 1787635299
+  nanosec: 647005948
+level: 30
+name: go2_sdk2_bridge
+msg: 'Go2 stopped: path progress could not be confirmed'
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: processSdkCompletions
+line: 734
+---
+stamp:
+  sec: 1787635301
+  nanosec: 580749654
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635304
+  nanosec: 780011957
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635309
+  nanosec: 898790452
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635310
+  nanosec: 299933613
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=267.7ms samples=340 anomalies=1 frame=0 src_age=267.7ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635313
+  nanosec: 276523040
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635317
+  nanosec: 811212695
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635322
+  nanosec: 956326000
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635324
+  nanosec: 284731060
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.4ms samples=954 anomalies=1 frame=0 src_age=251.4ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635326
+  nanosec: 8538711
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635329
+  nanosec: 284781519
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=441.1ms samples=848 anomalies=10 frame=0 src_age=441.1ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635330
+  nanosec: 566623283
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635333
+  nanosec: 979207512
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635337
+  nanosec: 806786833
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635342
+  nanosec: 392699505
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635346
+  nanosec: 176771007
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635349
+  nanosec: 266360504
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635352
+  nanosec: 469265522
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635359
+  nanosec: 177948882
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635361
+  nanosec: 638528404
+level: 30
+name: body_lattice_planner
+msg: Expired cached goal after 30.036 s; retention limit is 30.000 s and a new goal is required
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: expireGoalIfNeeded
+line: 391
+---
+stamp:
+  sec: 1787635361
+  nanosec: 638940495
+level: 30
+name: body_lattice_planner
+msg: 'Cleared body path: cached goal exceeded its retention timeout'
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/body_lattice_planner_node.cpp
+function: clearPath
+line: 478
+---
+stamp:
+  sec: 1787635361
+  nanosec: 641492382
+level: 30
+name: go2_sdk2_bridge
+msg: Body path cleared while motion is disarmed
+file: /home/unitree/catkin_ws/src/utree_go2_sdk2_bridge/src/go2_sdk2_bridge_node.cpp
+function: pathCallback
+line: 222
+---
+stamp:
+  sec: 1787635362
+  nanosec: 958607173
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635366
+  nanosec: 574611591
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635369
+  nanosec: 666218237
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635373
+  nanosec: 89285986
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635373
+  nanosec: 892120076
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=252.8ms samples=1204 anomalies=1 frame=0 src_age=252.8ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635376
+  nanosec: 183833865
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635378
+  nanosec: 892607484
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=252.0ms samples=1329 anomalies=1 frame=0 src_age=252.0ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635381
+  nanosec: 986256030
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635385
+  nanosec: 194185765
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635390
+  nanosec: 385667460
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635394
+  nanosec: 84559463
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635397
+  nanosec: 385266108
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635400
+  nanosec: 873534418
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635407
+  nanosec: 272900337
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635410
+  nanosec: 527259153
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635415
+  nanosec: 74694831
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635420
+  nanosec: 370741046
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635423
+  nanosec: 572903365
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635430
+  nanosec: 969887028
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635436
+  nanosec: 74226860
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635441
+  nanosec: 977067467
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635448
+  nanosec: 372470046
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635450
+  nanosec: 98233500
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.3ms samples=341 anomalies=1 frame=0 src_age=250.3ms points=0/0 imu=0 queue...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635450
+  nanosec: 232421671
+level: 30
+name: terrain_mapper
+msg: Dropped 1 flat obstacle cloud(s) without exact-timestamp body odometry; kept the last validated map epoch
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: prunePendingFlatClouds
+line: 670
+---
+stamp:
+  sec: 1787635452
+  nanosec: 73130555
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635455
+  nanosec: 107972133
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_delivery_gap max=284.6ms samples=1212 anomalies=5 frame=4045 src_age=289.9ms points=61899/1845 im...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635455
+  nanosec: 139770018
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635458
+  nanosec: 584036938
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635460
+  nanosec: 118701048
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=460.2ms samples=1396 anomalies=131 frame=4105 src_age=460.2ms points=61922/184...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635462
+  nanosec: 472501008
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635467
+  nanosec: 696759873
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635470
+  nanosec: 822943051
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635474
+  nanosec: 982383893
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635479
+  nanosec: 602163530
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635480
+  nanosec: 102639321
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=251.6ms samples=1394 anomalies=1 frame=0 src_age=251.6ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635482
+  nanosec: 787267267
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635485
+  nanosec: 109259391
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=393.1ms samples=1066 anomalies=4 frame=0 src_age=393.1ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635490
+  nanosec: 245195891
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635497
+  nanosec: 617940250
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635500
+  nanosec: 691895401
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635504
+  nanosec: 202899589
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635507
+  nanosec: 509224715
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635512
+  nanosec: 788638634
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635517
+  nanosec: 97894998
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635520
+  nanosec: 989055763
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635525
+  nanosec: 484019485
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635529
+  nanosec: 883862363
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635533
+  nanosec: 594486785
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635537
+  nanosec: 192207928
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635540
+  nanosec: 489274803
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635543
+  nanosec: 780296729
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635546
+  nanosec: 809220391
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635552
+  nanosec: 8231916
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635555
+  nanosec: 129146024
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635558
+  nanosec: 208389341
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635561
+  nanosec: 225296768
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635569
+  nanosec: 90113853
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635573
+  nanosec: 1976858
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635577
+  nanosec: 929364586
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635579
+  nanosec: 613311236
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=250.7ms samples=1182 anomalies=1 frame=0 src_age=250.7ms points=0/0 imu=0 queu...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635581
+  nanosec: 494741623
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635584
+  nanosec: 625771965
+level: 30
+name: super_lio_node
+msg: '[super_lio_timing] cause=lidar_source_backlog max=391.6ms samples=1397 anomalies=98 frame=0 src_age=391.6ms points=0/0 imu=0 que...'
+file: /home/unitree/catkin_ws/src/Super-LIO/src/super_lio/src/ros/ROSWrapper.cpp
+function: reportRuntimeTiming
+line: 495
+---
+stamp:
+  sec: 1787635585
+  nanosec: 636957726
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635589
+  nanosec: 490322848
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635594
+  nanosec: 936563584
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635599
+  nanosec: 905083266
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635602
+  nanosec: 910628587
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---
+stamp:
+  sec: 1787635606
+  nanosec: 4332659
+level: 30
+name: terrain_mapper
+msg: Queued flat obstacle cloud until body odometry with the exact source timestamp arrives
+file: /home/unitree/catkin_ws/src/utree_dog_navigation/src/terrain_mapper_node.cpp
+function: cloudCallback
+line: 428
+---

@@ -1,0 +1,19 @@
+{"timestamp":"2026-08-25T05:17:17.345759+00:00","level":"info","category":"collector","message":"collector started"}
+{"timestamp":"2026-08-25T05:17:56.095621+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-25T05:18:51.132577+00:00","level":"info","category":"lifecycle","message":"hesai_lidar started (pids=3961;3963;3990)"}
+{"timestamp":"2026-08-25T05:18:51.409357+00:00","level":"info","category":"lifecycle","message":"go2_imu_bridge started (pids=4049;4051;4055)"}
+{"timestamp":"2026-08-25T05:18:51.634875+00:00","level":"info","category":"lifecycle","message":"super_lio started (pids=4097)"}
+{"timestamp":"2026-08-25T05:18:51.957666+00:00","level":"info","category":"lifecycle","message":"body_odom_adapter started (pids=4336)"}
+{"timestamp":"2026-08-25T05:18:52.330371+00:00","level":"info","category":"lifecycle","message":"terrain_mapper started (pids=4343)"}
+{"timestamp":"2026-08-25T05:18:52.702801+00:00","level":"info","category":"lifecycle","message":"body_lattice_planner started (pids=4345)"}
+{"timestamp":"2026-08-25T05:18:53.016206+00:00","level":"info","category":"lifecycle","message":"go2_sdk2_bridge started (pids=4662)"}
+{"timestamp":"2026-08-25T05:19:01.629810+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-25T05:20:47.930820+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-25T05:21:44.120359+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-25T05:22:39.411829+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-25T05:23:21.929947+00:00","level":"warning","category":"collector","message":"odometry sampler timed out or failed before writing samples"}
+{"timestamp":"2026-08-25T05:23:44.457840+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-25T05:24:37.006946+00:00","level":"warning","category":"collector","message":"topic timing sampler failed with exit 124"}
+{"timestamp":"2026-08-25T05:26:50.398306+00:00","level":"warning","category":"collector","message":"parameter capture for /hesai_ros_driver_node failed or was empty (exit 124); will retry"}
+{"timestamp":"2026-08-25T05:27:34.261452+00:00","level":"warning","category":"lifecycle","message":"go2_sdk2_bridge stopped"}
+{"timestamp":"2026-08-25T05:27:50.991771+00:00","level":"info","category":"collector","message":"collector stopped"}
