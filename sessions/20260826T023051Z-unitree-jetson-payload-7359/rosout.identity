@@ -1,0 +1,8 @@
+pid=7432
+boot_id=05d324e3-5885-4d5f-b62a-0e5f69171db4
+start_ticks=77661
+pgid=7432
+session_dir=/home/unitree/go2_logs/sessions/20260826T023051Z-unitree-jetson-payload-7359
+writer=rosout
+collector_pid=7422
+captured_at=2026-08-26T02:30:52Z

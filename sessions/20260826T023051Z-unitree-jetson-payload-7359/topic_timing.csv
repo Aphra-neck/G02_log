@@ -1,0 +1,3 @@
+window_end,window_duration_sec,topic,status,message_count,first_receive_ns,last_receive_ns,first_header_ns,last_header_ns,latest_header_age_ms,header_span_ms,first_local_sequence,last_local_sequence,unique_header_count,duplicate_header_count,nonmonotonic_header_count,invalid_header_count,min_header_gap_ms,max_header_gap_ms,max_receive_gap_ms
+2026-08-26T02:30:58Z,5.000908,/lio/odom,no_data,0,,,,,,,,,0,0,0,0,,,
+2026-08-26T02:30:58Z,5.000908,/lio/body_odom,no_data,0,,,,,,,,,0,0,0,0,,,
