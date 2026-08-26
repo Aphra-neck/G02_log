@@ -1,0 +1,110 @@
+{
+  "active_command_samples": 28,
+  "capture_invalidated": null,
+  "capture_limit": null,
+  "config": {
+    "command_gap_sec": 0.25,
+    "command_linear_min": 0.03,
+    "command_yaw_min": 0.08,
+    "odom_gap_sec": 0.5,
+    "odom_linear_min": 0.04,
+    "odom_yaw_min": 0.05,
+    "remote_axis_min": 0.08,
+    "remote_gap_sec": 0.25,
+    "response_max_age_sec": 0.55,
+    "sport_gap_sec": 0.25,
+    "sport_linear_min": 0.04,
+    "sport_yaw_min": 0.05,
+    "stall_min_sec": 0.75,
+    "wake_sustain_sec": 0.75,
+    "wake_window_sec": 2.0,
+    "yaw_evidence_min_rad": 0.05,
+    "yaw_opposite_fraction": 0.7
+  },
+  "planning": {
+    "goal_count": 1,
+    "goal_generations_ns": [
+      1787722957296446051
+    ],
+    "path_count": 2,
+    "path_goal_generations_ns": [
+      1787722957296446051
+    ],
+    "path_pose_count_max": 12,
+    "path_pose_count_min": 12,
+    "path_sequences": [
+      1,
+      2
+    ],
+    "status": "path_observed"
+  },
+  "reader_exit": 0,
+  "remote": {
+    "nudge_count": 0,
+    "nudges": [],
+    "wake_status": "no_remote_nudge",
+    "wakes": []
+  },
+  "required_streams_complete": true,
+  "schema": 1,
+  "stall": {
+    "combined_episodes": [],
+    "episodes": [],
+    "odom_episodes": [],
+    "sport_episodes": [],
+    "status": "insufficient_active_command"
+  },
+  "streams": {
+    "command": {
+      "count": 1201,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 202.961987,
+      "gap_median_ms": 2.6698494999999998,
+      "gap_p95_ms": 26.527211,
+      "rate_hz": 150.12305049759382,
+      "status": "ok"
+    },
+    "odom": {
+      "count": 79,
+      "gap_limit_ms": 500.0,
+      "gap_max_ms": 199.461289,
+      "gap_median_ms": 93.912289,
+      "gap_p95_ms": 175.983501,
+      "rate_hz": 9.94390929142079,
+      "status": "ok"
+    },
+    "remote": {
+      "count": 3525,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 32.784584,
+      "gap_median_ms": 1.9875615,
+      "gap_p95_ms": 5.317712,
+      "rate_hz": 439.9923670563656,
+      "status": "ok"
+    },
+    "sport": {
+      "count": 2225,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 25.82668,
+      "gap_median_ms": 3.321734,
+      "gap_p95_ms": 6.86343,
+      "rate_hz": 277.64643136021914,
+      "status": "ok"
+    }
+  },
+  "yaw_sign": {
+    "odom": {
+      "aligned_evidence": 0.005507703049894674,
+      "opposite_evidence": 0.023399206222164626,
+      "opposite_fraction": 0.8094675913616859,
+      "status": "insufficient_response"
+    },
+    "sport": {
+      "aligned_evidence": 0.006013688746411665,
+      "opposite_evidence": 0.04255388361288736,
+      "opposite_fraction": 0.8761789306263267,
+      "status": "insufficient_response"
+    },
+    "status": "insufficient_response"
+  }
+}

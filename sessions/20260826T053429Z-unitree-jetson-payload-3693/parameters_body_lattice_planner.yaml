@@ -1,0 +1,61 @@
+/body_lattice_planner:
+  ros__parameters:
+    body_frame: base_link
+    enable_legacy_terrain: false
+    flat_ground_confirmed: true
+    flat_obstacle:
+      footprint_length: 0.6
+      footprint_width: 0.3
+      obstacle_clearance: 0.0
+    goal_retention_timeout: 30.0
+    goal_topic: /goal_pose
+    height_cost_weight: 2.0
+    input_watchdog_rate: 10.0
+    lateral_cost_factor: 1.25
+    map_frame: world
+    max_expansions: 250000
+    max_goal_age: 2.0
+    max_map_age: 1.0
+    max_odom_age: 0.5
+    max_slope: 0.65
+    max_step_height: 0.24
+    min_traversability: 0.18
+    motion_step: 0.2
+    nominal_body_height: 0.42
+    odom_topic: /lio/body_odom
+    path_topic: body_path
+    planning_mode: flat_obstacle
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    reverse_cost_factor: 1.15
+    slope_cost_weight: 1.5
+    snap_radius: 0.8
+    stair_height_threshold: 0.08
+    start_snap_radius: 0.8
+    terrain_cost_weight: 4.0
+    terrain_map_topic: terrain_map
+    timestamp_future_tolerance: 0.2
+    use_sim_time: false
+    verified_flat_start:
+      enabled: false
+      fill_radius: 1.35
+      inferred_traversability: 0.2
+      max_elevation_range: 0.18
+      max_plane_residual: 0.1
+      max_plane_rmse: 0.04
+      max_plane_slope: 0.15
+      min_cells_per_sector: 3
+      min_observation_count: 4
+      min_support_cells: 32
+      min_supported_sectors: 7
+      sector_count: 8
+      support_inner_radius: 1.0
+      support_outer_radius: 2.5
+    yaw_bins: 16
+    yaw_change_cost: 0.15
+
