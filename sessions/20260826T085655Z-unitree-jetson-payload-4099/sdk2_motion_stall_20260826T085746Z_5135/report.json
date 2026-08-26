@@ -1,0 +1,265 @@
+{
+  "active_command_samples": 6399,
+  "capture_invalidated": null,
+  "capture_limit": null,
+  "config": {
+    "command_gap_sec": 0.25,
+    "command_linear_min": 0.03,
+    "command_yaw_min": 0.08,
+    "odom_gap_sec": 0.5,
+    "odom_linear_min": 0.04,
+    "odom_yaw_min": 0.05,
+    "remote_axis_min": 0.08,
+    "remote_gap_sec": 0.25,
+    "response_max_age_sec": 0.55,
+    "sport_gap_sec": 0.25,
+    "sport_linear_min": 0.04,
+    "sport_yaw_min": 0.05,
+    "stall_min_sec": 0.75,
+    "wake_sustain_sec": 0.75,
+    "wake_window_sec": 2.0,
+    "yaw_evidence_min_rad": 0.05,
+    "yaw_opposite_fraction": 0.7
+  },
+  "planning": {
+    "goal_count": 3,
+    "goal_generations_ns": [
+      1787734716878705194,
+      1787734726045125462,
+      1787734742981555480
+    ],
+    "path_count": 89,
+    "path_goal_generations_ns": [
+      1787734716878705194,
+      1787734726045125462,
+      1787734742981555480
+    ],
+    "path_pose_count_max": 35,
+    "path_pose_count_min": 4,
+    "path_sequences": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "status": "path_observed"
+  },
+  "reader_exit": 0,
+  "remote": {
+    "nudge_count": 0,
+    "nudges": [],
+    "wake_status": "no_remote_nudge",
+    "wakes": []
+  },
+  "required_streams_complete": true,
+  "schema": 1,
+  "stall": {
+    "combined_episodes": [
+      {
+        "command_samples": 275,
+        "duration_sec": 1.491375632,
+        "end_mono_ns": 374511358693,
+        "start_mono_ns": 373019983061
+      },
+      {
+        "command_samples": 164,
+        "duration_sec": 1.218865138,
+        "end_mono_ns": 375838958395,
+        "start_mono_ns": 374620093257
+      }
+    ],
+    "episodes": [
+      {
+        "command_samples": 275,
+        "duration_sec": 1.491375632,
+        "end_mono_ns": 374511358693,
+        "start_mono_ns": 373019983061
+      },
+      {
+        "command_samples": 164,
+        "duration_sec": 1.218865138,
+        "end_mono_ns": 375838958395,
+        "start_mono_ns": 374620093257
+      },
+      {
+        "command_samples": 129,
+        "duration_sec": 0.825322998,
+        "end_mono_ns": 378217953658,
+        "start_mono_ns": 377392630660
+      }
+    ],
+    "odom_episodes": [
+      {
+        "command_samples": 275,
+        "duration_sec": 1.491375632,
+        "end_mono_ns": 374511358693,
+        "start_mono_ns": 373019983061
+      },
+      {
+        "command_samples": 164,
+        "duration_sec": 1.218865138,
+        "end_mono_ns": 375838958395,
+        "start_mono_ns": 374620093257
+      },
+      {
+        "command_samples": 129,
+        "duration_sec": 0.825322998,
+        "end_mono_ns": 378217953658,
+        "start_mono_ns": 377392630660
+      }
+    ],
+    "sport_episodes": [
+      {
+        "command_samples": 831,
+        "duration_sec": 5.164829511,
+        "end_mono_ns": 378040725052,
+        "start_mono_ns": 372875895541
+      },
+      {
+        "command_samples": 160,
+        "duration_sec": 0.884175258,
+        "end_mono_ns": 411540517339,
+        "start_mono_ns": 410656342081
+      }
+    ],
+    "status": "observed"
+  },
+  "streams": {
+    "command": {
+      "count": 6598,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 132.439716,
+      "gap_median_ms": 3.21706,
+      "gap_p95_ms": 25.025358,
+      "rate_hz": 146.69612827444308,
+      "status": "ok"
+    },
+    "odom": {
+      "count": 449,
+      "gap_limit_ms": 500.0,
+      "gap_max_ms": 323.336249,
+      "gap_median_ms": 96.451847,
+      "gap_p95_ms": 175.84171,
+      "rate_hz": 10.005778957348815,
+      "status": "ok"
+    },
+    "remote": {
+      "count": 20193,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 48.924754,
+      "gap_median_ms": 1.9937525,
+      "gap_p95_ms": 4.741864,
+      "rate_hz": 448.69482471540647,
+      "status": "ok"
+    },
+    "sport": {
+      "count": 12531,
+      "gap_limit_ms": 250.0,
+      "gap_max_ms": 37.721279,
+      "gap_median_ms": 3.3477035,
+      "gap_p95_ms": 6.439905,
+      "rate_hz": 278.4904545579511,
+      "status": "ok"
+    }
+  },
+  "yaw_sign": {
+    "odom": {
+      "aligned_evidence": 6.849622230266391,
+      "opposite_evidence": 0.13779717755879028,
+      "opposite_fraction": 0.01972075375988907,
+      "status": "match_or_mixed"
+    },
+    "sport": {
+      "aligned_evidence": 6.301754583988769,
+      "opposite_evidence": 0.5266262602320974,
+      "opposite_fraction": 0.07712315294742272,
+      "status": "match_or_mixed"
+    },
+    "status": "match_or_mixed"
+  }
+}

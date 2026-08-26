@@ -1,0 +1,35 @@
+/go2_sdk2_bridge:
+  ros__parameters:
+    body_frame: base_link
+    command_rate: 200.0
+    domain_id: 0
+    enabled: false
+    explicit_rotation_tolerance: 0.08
+    goal_position_tolerance: 0.15
+    goal_yaw_tolerance: 0.2
+    heading_alignment_enter_angle: 0.35
+    heading_alignment_exit_angle: 0.12
+    lookahead_distance: 0.35
+    max_vx: 0.6
+    max_vy: 0.35
+    max_yaw_rate: 0.8
+    network_interface: enP8p1s0
+    odom_timeout: 0.5
+    odom_topic: /lio/body_odom
+    path_timeout: 1.0
+    path_topic: /body_path
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    rotation_speed: 0.3
+    translation_speed: 0.2
+    truncated_path_discount: 0.95
+    truncated_path_sample_count: 8
+    use_sim_time: false
+    waypoint_tolerance: 0.12
+    world_frame: world
+
